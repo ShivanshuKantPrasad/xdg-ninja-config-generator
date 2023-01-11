@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.anthy",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://osdn.net/ticket/browse.php?group_id=14&tid=28397\n"
         }
     ]

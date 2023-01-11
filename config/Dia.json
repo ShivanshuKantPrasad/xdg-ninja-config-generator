@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.dia/",
-            "movable": true,
+            "movable": false,
             "help": "\n"
         }
     ]

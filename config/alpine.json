@@ -3,37 +3,37 @@
     "files": [
         {
             "path": "~/.pinerc",
-            "movable": true,
+            "movable": false,
             "help": "alias alpine=\"alpine -p $XDG_CONFIG_HOME/alpine/pinerc\"\nIn the above config file, some locations can be customized using options like newsrc-path= and address-book=.\n"
         },
         {
             "path": "~/.addressbook",
-            "movable": true,
+            "movable": false,
             "help": "alias alpine=\"alpine -p $XDG_CONFIG_HOME/alpine/pinerc\"\nIn the above config file, some locations can be customized using options like newsrc-path= and address-book=.\n"
         },
         {
             "path": "~/.pine-debug[1-4]",
-            "movable": true,
+            "movable": false,
             "help": "alias alpine=\"alpine -p $XDG_CONFIG_HOME/alpine/pinerc\"\nIn the above config file, some locations can be customized using options like newsrc-path= and address-book=.\n"
         },
         {
             "path": "~/.newsrc",
-            "movable": true,
+            "movable": false,
             "help": "alias alpine=\"alpine -p $XDG_CONFIG_HOME/alpine/pinerc\"\nIn the above config file, some locations can be customized using options like newsrc-path= and address-book=.\n"
         },
         {
             "path": "~/.mailcap",
-            "movable": true,
+            "movable": false,
             "help": "alias alpine=\"alpine -p $XDG_CONFIG_HOME/alpine/pinerc\"\nIn the above config file, some locations can be customized using options like newsrc-path= and address-book=.\n"
         },
         {
             "path": "~/.mime.types",
-            "movable": true,
+            "movable": false,
             "help": "alias alpine=\"alpine -p $XDG_CONFIG_HOME/alpine/pinerc\"\nIn the above config file, some locations can be customized using options like newsrc-path= and address-book=.\n"
         },
         {
             "path": "~/.pine-interrupted-mail",
-            "movable": true,
+            "movable": false,
             "help": "alias alpine=\"alpine -p $XDG_CONFIG_HOME/alpine/pinerc\"\nIn the above config file, some locations can be customized using options like newsrc-path= and address-book=.\n"
         }
     ]

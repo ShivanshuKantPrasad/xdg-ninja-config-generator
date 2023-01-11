@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.screenlayout",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://gitlab.com/arandr/arandr/-/issues/45\n"
         }
     ]

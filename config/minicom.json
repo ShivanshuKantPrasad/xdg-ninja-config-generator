@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.minirc.dfl",
-            "movable": true,
+            "movable": false,
             "help": "Upstream has a TODO entry for supporting configuration files under ~/.config/minicom. [300]\n"
         }
     ]

@@ -3,12 +3,12 @@
     "files": [
         {
             "path": "~/.mozilla",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://gitlab.com/librewolf-community/browser/linux/-/issues/129\n"
         },
         {
             "path": "~/.librewolf",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://gitlab.com/librewolf-community/browser/linux/-/issues/129\n"
         }
     ]

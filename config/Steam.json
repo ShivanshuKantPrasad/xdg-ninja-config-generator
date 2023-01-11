@@ -3,17 +3,17 @@
     "files": [
         {
             "path": "~/.steam",
-            "movable": true,
+            "movable": false,
             "help": "Many game engines (Unity 3D, Unreal) follow the specification, but then individual game publishers hardcode the paths in Steam Auto-Cloud causing game-saves to sync to the wrong directory.\n_Relevant issue_: https://github.com/ValveSoftware/steam-for-linux/issues/1890\n"
         },
         {
             "path": "~/.steampath",
-            "movable": true,
+            "movable": false,
             "help": "Many game engines (Unity 3D, Unreal) follow the specification, but then individual game publishers hardcode the paths in Steam Auto-Cloud causing game-saves to sync to the wrong directory.\n_Relevant issue_: https://github.com/ValveSoftware/steam-for-linux/issues/1890\n"
         },
         {
             "path": "~/.steampid",
-            "movable": true,
+            "movable": false,
             "help": "Many game engines (Unity 3D, Unreal) follow the specification, but then individual game publishers hardcode the paths in Steam Auto-Cloud causing game-saves to sync to the wrong directory.\n_Relevant issue_: https://github.com/ValveSoftware/steam-for-linux/issues/1890\n"
         }
     ]

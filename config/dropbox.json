@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.dropbox/",
-            "movable": true,
+            "movable": false,
             "help": "\n"
         }
     ]

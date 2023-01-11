@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.moonchild productions",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://forum.palemoon.org/viewtopic.php?f=5&t=9639\n"
         }
     ]

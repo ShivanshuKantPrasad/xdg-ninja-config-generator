@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.sane/",
-            "movable": true,
+            "movable": false,
             "help": "scanimage creates a .cal file there\n"
         }
     ]

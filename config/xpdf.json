@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.xpdfrc",
-            "movable": true,
+            "movable": false,
             "help": "\n"
         }
     ]

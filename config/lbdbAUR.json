@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.lbdbrc, ~/.lbdb/",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://github.com/RolandRosenfeld/lbdb/blob/eb162aa9da36f699cf821c6487210c7979fcd8ee/TODO#L18\n"
         }
     ]

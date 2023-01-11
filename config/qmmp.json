@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.qmmp",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://sourceforge.net/p/qmmp-dev/tickets/776\n"
         }
     ]

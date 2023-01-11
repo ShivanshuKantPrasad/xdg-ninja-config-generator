@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.infokey",
-            "movable": true,
+            "movable": false,
             "help": "info --init-file \"$XDG_CONFIG_HOME/infokey\"\n"
         }
     ]

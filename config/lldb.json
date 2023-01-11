@@ -3,12 +3,12 @@
     "files": [
         {
             "path": "~/.lldb",
-            "movable": true,
+            "movable": false,
             "help": "\n"
         },
         {
             "path": "~/.lldbinit",
-            "movable": true,
+            "movable": false,
             "help": "\n"
         }
     ]

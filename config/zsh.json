@@ -3,42 +3,42 @@
     "files": [
         {
             "path": "~/.zshrc",
-            "movable": true,
+            "movable": false,
             "help": "Consider exporting ZDOTDIR=$HOME/.config/zsh in ~/.zshenv (this is hardcoded due to the bootstrap problem).  You could also add this to /etc/zsh/zshenv and avoid the need for any dotfiles in your HOME.  Doing this however requires root privilege which may not be viable and is system-wide.\nexport HISTFILE=\"$XDG_STATE_HOME\"/zsh/history\ncompinit -d $XDG_CACHE_HOME/zsh/zcompdump-$ZSH_VERSION [347] /!\\ The folder needs to exist\nzstyle ':completion:*' cache-path $XDG_CACHE_HOME/zsh/zcompcache\n_Relevant issue_: https://www.zsh.org/mla/workers/2013/msg00692.html\n"
         },
         {
             "path": "~/.zprofile",
-            "movable": true,
+            "movable": false,
             "help": "Consider exporting ZDOTDIR=$HOME/.config/zsh in ~/.zshenv (this is hardcoded due to the bootstrap problem).  You could also add this to /etc/zsh/zshenv and avoid the need for any dotfiles in your HOME.  Doing this however requires root privilege which may not be viable and is system-wide.\nexport HISTFILE=\"$XDG_STATE_HOME\"/zsh/history\ncompinit -d $XDG_CACHE_HOME/zsh/zcompdump-$ZSH_VERSION [347] /!\\ The folder needs to exist\nzstyle ':completion:*' cache-path $XDG_CACHE_HOME/zsh/zcompcache\n_Relevant issue_: https://www.zsh.org/mla/workers/2013/msg00692.html\n"
         },
         {
             "path": "~/.zshenv",
-            "movable": true,
+            "movable": false,
             "help": "Consider exporting ZDOTDIR=$HOME/.config/zsh in ~/.zshenv (this is hardcoded due to the bootstrap problem).  You could also add this to /etc/zsh/zshenv and avoid the need for any dotfiles in your HOME.  Doing this however requires root privilege which may not be viable and is system-wide.\nexport HISTFILE=\"$XDG_STATE_HOME\"/zsh/history\ncompinit -d $XDG_CACHE_HOME/zsh/zcompdump-$ZSH_VERSION [347] /!\\ The folder needs to exist\nzstyle ':completion:*' cache-path $XDG_CACHE_HOME/zsh/zcompcache\n_Relevant issue_: https://www.zsh.org/mla/workers/2013/msg00692.html\n"
         },
         {
             "path": "~/.zlogin",
-            "movable": true,
+            "movable": false,
             "help": "Consider exporting ZDOTDIR=$HOME/.config/zsh in ~/.zshenv (this is hardcoded due to the bootstrap problem).  You could also add this to /etc/zsh/zshenv and avoid the need for any dotfiles in your HOME.  Doing this however requires root privilege which may not be viable and is system-wide.\nexport HISTFILE=\"$XDG_STATE_HOME\"/zsh/history\ncompinit -d $XDG_CACHE_HOME/zsh/zcompdump-$ZSH_VERSION [347] /!\\ The folder needs to exist\nzstyle ':completion:*' cache-path $XDG_CACHE_HOME/zsh/zcompcache\n_Relevant issue_: https://www.zsh.org/mla/workers/2013/msg00692.html\n"
         },
         {
             "path": "~/.zlogout",
-            "movable": true,
+            "movable": false,
             "help": "Consider exporting ZDOTDIR=$HOME/.config/zsh in ~/.zshenv (this is hardcoded due to the bootstrap problem).  You could also add this to /etc/zsh/zshenv and avoid the need for any dotfiles in your HOME.  Doing this however requires root privilege which may not be viable and is system-wide.\nexport HISTFILE=\"$XDG_STATE_HOME\"/zsh/history\ncompinit -d $XDG_CACHE_HOME/zsh/zcompdump-$ZSH_VERSION [347] /!\\ The folder needs to exist\nzstyle ':completion:*' cache-path $XDG_CACHE_HOME/zsh/zcompcache\n_Relevant issue_: https://www.zsh.org/mla/workers/2013/msg00692.html\n"
         },
         {
             "path": "~/.histfile",
-            "movable": true,
+            "movable": false,
             "help": "Consider exporting ZDOTDIR=$HOME/.config/zsh in ~/.zshenv (this is hardcoded due to the bootstrap problem).  You could also add this to /etc/zsh/zshenv and avoid the need for any dotfiles in your HOME.  Doing this however requires root privilege which may not be viable and is system-wide.\nexport HISTFILE=\"$XDG_STATE_HOME\"/zsh/history\ncompinit -d $XDG_CACHE_HOME/zsh/zcompdump-$ZSH_VERSION [347] /!\\ The folder needs to exist\nzstyle ':completion:*' cache-path $XDG_CACHE_HOME/zsh/zcompcache\n_Relevant issue_: https://www.zsh.org/mla/workers/2013/msg00692.html\n"
         },
         {
             "path": "~/.zcompdump",
-            "movable": true,
+            "movable": false,
             "help": "Consider exporting ZDOTDIR=$HOME/.config/zsh in ~/.zshenv (this is hardcoded due to the bootstrap problem).  You could also add this to /etc/zsh/zshenv and avoid the need for any dotfiles in your HOME.  Doing this however requires root privilege which may not be viable and is system-wide.\nexport HISTFILE=\"$XDG_STATE_HOME\"/zsh/history\ncompinit -d $XDG_CACHE_HOME/zsh/zcompdump-$ZSH_VERSION [347] /!\\ The folder needs to exist\nzstyle ':completion:*' cache-path $XDG_CACHE_HOME/zsh/zcompcache\n_Relevant issue_: https://www.zsh.org/mla/workers/2013/msg00692.html\n"
         },
         {
             "path": "~/.zcompcache",
-            "movable": true,
+            "movable": false,
             "help": "Consider exporting ZDOTDIR=$HOME/.config/zsh in ~/.zshenv (this is hardcoded due to the bootstrap problem).  You could also add this to /etc/zsh/zshenv and avoid the need for any dotfiles in your HOME.  Doing this however requires root privilege which may not be viable and is system-wide.\nexport HISTFILE=\"$XDG_STATE_HOME\"/zsh/history\ncompinit -d $XDG_CACHE_HOME/zsh/zcompdump-$ZSH_VERSION [347] /!\\ The folder needs to exist\nzstyle ':completion:*' cache-path $XDG_CACHE_HOME/zsh/zcompcache\n_Relevant issue_: https://www.zsh.org/mla/workers/2013/msg00692.html\n"
         }
     ]

@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.w3m",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://sourceforge.net/p/w3m/feature-requests/31/\n"
         }
     ]

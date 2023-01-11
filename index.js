@@ -5,26 +5,16 @@ fs.readFile("XDG.html", { encoding: 'utf8' }).then(webpage => {
   const $ = cheerio.load(webpage);
   const tables = $(".wikitable");
 
-  let foo = [];
   tables.each((tableId, table) => {
-    // Supported table
+    // Tables: Supported Partial Hardcoded
     $(table).children('tbody').children('tr').each((i, app) => {
       let elem = $(app).children('td');
 
-      if (elem.length == 0) 
-      {
-        console.log(app.name);
-        return; // Ignore the first th header row
-      }
+      if (elem.length == 0) return; // Ignore the first th header row
 
-      // Application Legacy_Path Supported_Since Discussion Notes
+      // Columns: Application Legacy_Path Supported_Since Discussion Notes
       let name = $(elem[0]).text().trim();
       let paths = $(elem[1]).children();
-
-      if (foo.indexOf(name) != -1){
-        console.log(name);
-      }
-      foo.push(name)
 
       // Hardcoded table doesn't contain Supported_Since column
       // Select correct column according to that

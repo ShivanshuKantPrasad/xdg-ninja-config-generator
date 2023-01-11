@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.jmol/",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://sourceforge.net/p/jmol/feature-requests/261/\n"
         }
     ]

@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.hydrogen/",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://github.com/hydrogen-music/hydrogen/issues/643\n"
         }
     ]

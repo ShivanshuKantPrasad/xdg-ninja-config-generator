@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.zenmap",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://seclists.org/nmap-dev/2012/q2/163\n"
         }
     ]

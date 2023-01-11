@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.groovy/",
-            "movable": true,
+            "movable": false,
             "help": "\n"
         }
     ]

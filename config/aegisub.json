@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.aegisub/",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://github.com/Aegisub/Aegisub/issues/226\n"
         }
     ]

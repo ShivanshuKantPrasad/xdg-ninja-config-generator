@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.fetchmailrc",
-            "movable": true,
+            "movable": false,
             "help": "\n"
         }
     ]

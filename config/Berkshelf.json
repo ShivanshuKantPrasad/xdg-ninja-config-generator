@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.berkshelf/",
-            "movable": true,
+            "movable": false,
             "help": "\n"
         }
     ]

@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.vnc",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://github.com/TigerVNC/tigervnc/issues/1195\n"
         }
     ]

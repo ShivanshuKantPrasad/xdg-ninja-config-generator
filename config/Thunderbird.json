@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.thunderbird/",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://bugzil.la/735285\n"
         }
     ]

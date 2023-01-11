@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.wegorc",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://github.com/schachmat/wego/issues/116\n"
         }
     ]

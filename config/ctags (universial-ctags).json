@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.ctagsrc, .ctags.d",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://github.com/universal-ctags/ctags/issues/89\n"
         }
     ]

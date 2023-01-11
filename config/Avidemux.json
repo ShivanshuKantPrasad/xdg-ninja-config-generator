@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.avidemux6",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://avidemux.org/smif/index.php/topic,19596.0.html\n"
         }
     ]

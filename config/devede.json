@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.devedeng",
-            "movable": true,
+            "movable": false,
             "help": "Hardcoded here\n"
         }
     ]

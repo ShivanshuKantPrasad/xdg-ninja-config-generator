@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.vale.ini",
-            "movable": true,
+            "movable": false,
             "help": "vale --config \"$XDG_CONFIG_HOME/vale/config.ini\"\n_Relevant issue_: https://github.com/errata-ai/vale/issues/152\n"
         }
     ]

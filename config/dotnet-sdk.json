@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.dotnet/",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://github.com/dotnet/cli/issues/7569\n"
         }
     ]

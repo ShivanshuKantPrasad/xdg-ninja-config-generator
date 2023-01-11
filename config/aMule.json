@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.aMule",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://bugs.amule.org/view.php?id=1308\n"
         }
     ]

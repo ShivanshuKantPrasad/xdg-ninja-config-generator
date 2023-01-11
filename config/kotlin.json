@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.kotlinc_history",
-            "movable": true,
+            "movable": false,
             "help": "Related Konan issue: [294]\n"
         }
     ]

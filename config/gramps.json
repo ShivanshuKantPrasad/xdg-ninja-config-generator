@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.gramps/",
-            "movable": true,
+            "movable": false,
             "help": "2022 Support XDG base directory specification (for next release Gramps 5.2 ) - Patch https://github.com/gramps-project/gramps/pull/1368\n_Relevant issue_: https://gramps-project.org/bugs/view.php?id=8025\n"
         }
     ]

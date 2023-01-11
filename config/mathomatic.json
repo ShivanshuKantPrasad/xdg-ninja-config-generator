@@ -3,12 +3,12 @@
     "files": [
         {
             "path": "~/.mathomaticrc",
-            "movable": true,
+            "movable": false,
             "help": "History can be moved by using rlwrap mathomatic -r with the RLWRAP_HOME environment set appropriately.\n"
         },
         {
             "path": "~/.matho_history",
-            "movable": true,
+            "movable": false,
             "help": "History can be moved by using rlwrap mathomatic -r with the RLWRAP_HOME environment set appropriately.\n"
         }
     ]

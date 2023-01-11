@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.designer",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://bugreports.qt.io/browse/QTCREATORBUG-26093\n"
         }
     ]

@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.wpa_cli_history",
-            "movable": true,
+            "movable": false,
             "help": "\n"
         }
     ]

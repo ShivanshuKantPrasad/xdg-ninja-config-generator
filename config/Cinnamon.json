@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.cinnamon/",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://github.com/linuxmint/Cinnamon/issues/7807\n"
         }
     ]

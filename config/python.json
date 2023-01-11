@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.python_history",
-            "movable": true,
+            "movable": false,
             "help": "All history from interactive sessions is saved to ~/.python_history by default since version 3.4. This can still be customized the same way as in older versions (see this example), including to use a custom path or disable history saving.\nPYTHONPYCACHEPREFIX: export $XDG_CACHE_HOME/python\nPYTHONUSERBASE: export $XDG_DATA_HOME/python\n_Relevant issue_: https://bugs.python.org/issue29779\n"
         }
     ]

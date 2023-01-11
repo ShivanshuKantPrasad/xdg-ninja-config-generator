@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.remarkable",
-            "movable": true,
+            "movable": false,
             "help": "\n"
         }
     ]

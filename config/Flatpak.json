@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.var/",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://github.com/flatpak/flatpak/issues/46\n"
         }
     ]

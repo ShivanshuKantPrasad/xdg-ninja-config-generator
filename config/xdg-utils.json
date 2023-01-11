@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.gnome",
-            "movable": true,
+            "movable": false,
             "help": "For some reason the script xdg-desktop-menu hard-codes gnome_user_dir=\"$HOME/.gnome/apps\".  This is used by chromium among others. Bug discussion has moved to gitlab and PR with fix exists, however it is not merged yet.\n_Relevant issue_: https://bugs.freedesktop.org/show_bug.cgi?id=90775\n"
         }
     ]

@@ -3,12 +3,12 @@
     "files": [
         {
             "path": "~/.cpan",
-            "movable": true,
+            "movable": false,
             "help": "Perl5's CPAN expects ~/.cpan\n_Relevant issue_: https://github.com/andk/cpanpm/issues/149\n"
         },
         {
             "path": "~/perl5",
-            "movable": true,
+            "movable": false,
             "help": "Perl5's CPAN expects ~/.cpan\n_Relevant issue_: https://github.com/andk/cpanpm/issues/149\n"
         }
     ]

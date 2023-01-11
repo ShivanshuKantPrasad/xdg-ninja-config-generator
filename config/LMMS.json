@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.lmmsrc.xml",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://github.com/LMMS/lmms/issues/5869\n"
         }
     ]

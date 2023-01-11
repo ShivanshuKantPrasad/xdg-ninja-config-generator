@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.cvimrc",
-            "movable": true,
+            "movable": false,
             "help": "\n_Relevant issue_: https://github.com/1995eaton/chromium-vim/issues/750\n"
         }
     ]

@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.texlive",
-            "movable": true,
+            "movable": false,
             "help": "\n"
         }
     ]

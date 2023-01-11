@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.cmake/",
-            "movable": true,
+            "movable": false,
             "help": "Used for the user package registry ~/.cmake/packages/<package>, detailed in cmake-packages(7) § User Package Registry and the Package registry wiki page. Looks like it's hardcoded, for example in cmFindPackageCommand.cxx.\n_Relevant issue_: https://gitlab.kitware.com/cmake/cmake/-/issues/22480\n"
         }
     ]

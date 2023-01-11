@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.gtk-recordmydesktop",
-            "movable": true,
+            "movable": false,
             "help": "\n"
         }
     ]

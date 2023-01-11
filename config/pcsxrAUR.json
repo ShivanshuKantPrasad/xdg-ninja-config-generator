@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.pcsxr",
-            "movable": true,
+            "movable": false,
             "help": "A -cfg flag exists, but can only be set relative to ~/.pcsxr.\n"
         }
     ]

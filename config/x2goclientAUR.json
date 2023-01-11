@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "~/.x2goclient",
-            "movable": true,
+            "movable": false,
             "help": "alias x2goclient=\"x2goclient --home=$HOME/.config\"\n"
         }
     ]
