@@ -1,0 +1,34 @@
+aerc-gitAUR
+calibre
+dconf
+dr14_tmeterAUR
+dunst
+fish
+gops
+GTK 3
+i3blocks, i3blocks-gitAUR
+i3-gaps
+i3status-rust
+imagemagick
+Kakoune
+LibreOffice
+mesa
+nteract-binAUR
+powershellAUR
+poezioAUR
+pyroomAUR
+qutebrowser
+qtile
+retroarch
+sublime-text-devAUR
+sxhkd
+systemd
+termite
+util-linux
+Uzbl
+vimb
+wxWidgets
+Zim
+ripgrep
+ghidra
+Signal Desktop

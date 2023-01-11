@@ -16,6 +16,12 @@ fs.readFile("XDG.html", { encoding: 'utf8' }).then(webpage => {
       let name = $(elem[0]).text().trim();
       let paths = $(elem[1]).children();
 
+      // a config without path is useless for xdg-ninja tool, ignore them
+      if (paths.length == 0) {
+        console.log(name)
+        return;
+      }
+
       // Hardcoded table doesn't contain Supported_Since column
       // Select correct column according to that
       let issue = $($(elem[tableId == 2 ? 2 : 3]).children('a')).attr('href');
