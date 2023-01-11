@@ -1,0 +1,10 @@
+{
+    "name": "fltk",
+    "files": [
+        {
+            "path": "~/.fltk/",
+            "movable": true,
+            "help": "Only supported in version 1.4.0, which hasn't been released yet (as of 9-July-2022)\n_Relevant issue_: https://www.fltk.org/str.php?L3370+P0+S0+C0+I0+E0+V%25+Qxdg\n"
+        }
+    ]
+}

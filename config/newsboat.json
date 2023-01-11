@@ -1,0 +1,10 @@
+{
+    "name": "newsboat",
+    "files": [
+        {
+            "path": "~/.newsboat",
+            "movable": true,
+            "help": "It is required to create both directories [69]:\nmkdir -p \"$XDG_DATA_HOME\"/newsboat \"$XDG_CONFIG_HOME\"/newsboat\n_Relevant issue_: https://github.com/akrennmair/newsbeuter/pull/39\n"
+        }
+    ]
+}

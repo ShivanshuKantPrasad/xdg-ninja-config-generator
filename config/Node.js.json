@@ -1,0 +1,10 @@
+{
+    "name": "Node.js",
+    "files": [
+        {
+            "path": "~/.node_repl_history",
+            "movable": true,
+            "help": "export NODE_REPL_HISTORY=\"$XDG_DATA_HOME\"/node_repl_history\n_Relevant issue_: https://nodejs.org/api/repl.html#repl_environment_variable_options\n"
+        }
+    ]
+}

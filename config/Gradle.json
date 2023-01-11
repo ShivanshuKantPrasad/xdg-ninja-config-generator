@@ -1,0 +1,10 @@
+{
+    "name": "Gradle",
+    "files": [
+        {
+            "path": "~/.gradle",
+            "movable": true,
+            "help": "export GRADLE_USER_HOME=\"$XDG_DATA_HOME\"/gradle\n_Relevant issue_: https://discuss.gradle.org/t/be-a-nice-freedesktop-citizen-move-the-gradle-to-the-appropriate-location-in-linux/2199\n"
+        }
+    ]
+}

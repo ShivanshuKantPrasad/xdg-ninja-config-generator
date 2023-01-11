@@ -1,0 +1,10 @@
+{
+    "name": "Mercurial",
+    "files": [
+        {
+            "path": "~/.hgrc",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/hg/hgrc.\n"
+        }
+    ]
+}

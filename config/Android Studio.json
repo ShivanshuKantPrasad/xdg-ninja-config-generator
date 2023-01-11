@@ -1,0 +1,10 @@
+{
+    "name": "Android Studio",
+    "files": [
+        {
+            "path": "~/.AndroidStudioX.X",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/Google/AndroidStudioX.X\nXDG_DATA_HOME/Google/AndroidStudioX.X\nXDG_CACHE_HOME/Google/AndroidStudioX.X\n\nLocation overview by Google does not mention XDG - paths could be hardcoded instead of using the proper variable, though that is unlikely as Intellij IDEA, which Android Studio is based on, implements it properly as well\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "rbenvAUR",
+    "files": [
+        {
+            "path": "~/.rbenv",
+            "movable": true,
+            "help": "export RBENV_ROOT=\"$XDG_DATA_HOME\"/rbenv\n_Relevant issue_: https://github.com/rbenv/rbenv/issues/811\n"
+        }
+    ]
+}

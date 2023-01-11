@@ -1,0 +1,25 @@
+{
+    "name": "yarn",
+    "files": [
+        {
+            "path": "~/.yarnrc",
+            "movable": true,
+            "help": "alias yarn='yarn --use-yarnrc \"$XDG_CONFIG_HOME/yarn/config\"'\n_Relevant issue_: https://github.com/yarnpkg/yarn/pull/5336\n"
+        },
+        {
+            "path": "~/.yarn/",
+            "movable": true,
+            "help": "alias yarn='yarn --use-yarnrc \"$XDG_CONFIG_HOME/yarn/config\"'\n_Relevant issue_: https://github.com/yarnpkg/yarn/pull/5336\n"
+        },
+        {
+            "path": "~/.yarncache/",
+            "movable": true,
+            "help": "alias yarn='yarn --use-yarnrc \"$XDG_CONFIG_HOME/yarn/config\"'\n_Relevant issue_: https://github.com/yarnpkg/yarn/pull/5336\n"
+        },
+        {
+            "path": "~/.yarn-config/",
+            "movable": true,
+            "help": "alias yarn='yarn --use-yarnrc \"$XDG_CONFIG_HOME/yarn/config\"'\n_Relevant issue_: https://github.com/yarnpkg/yarn/pull/5336\n"
+        }
+    ]
+}

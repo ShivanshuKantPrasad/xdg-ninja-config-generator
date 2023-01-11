@@ -1,0 +1,10 @@
+{
+    "name": "DOSBox",
+    "files": [
+        {
+            "path": "~/.dosbox/dosbox-0.74-2.conf",
+            "movable": true,
+            "help": "dosbox -conf \"$XDG_CONFIG_HOME\"/dosbox/dosbox.conf\n_Relevant issue_: https://www.vogons.org/viewtopic.php?t=29599\n"
+        }
+    ]
+}

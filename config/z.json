@@ -1,0 +1,10 @@
+{
+    "name": "z",
+    "files": [
+        {
+            "path": "~/.z",
+            "movable": true,
+            "help": "export _Z_DATA=\"$XDG_DATA_HOME/z\"\n_Relevant issue_: https://github.com/rupa/z/issues/267\n"
+        }
+    ]
+}

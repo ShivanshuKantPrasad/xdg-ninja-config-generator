@@ -1,0 +1,10 @@
+{
+    "name": "gnuplot",
+    "files": [
+        {
+            "path": "~/.gnuplot_history",
+            "movable": true,
+            "help": "\n"
+        }
+    ]
+}

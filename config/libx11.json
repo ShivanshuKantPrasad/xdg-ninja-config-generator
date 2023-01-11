@@ -1,0 +1,15 @@
+{
+    "name": "libx11",
+    "files": [
+        {
+            "path": "~/.XCompose",
+            "movable": true,
+            "help": "export XCOMPOSEFILE=\"$XDG_CONFIG_HOME\"/X11/xcompose, export XCOMPOSECACHE=\"$XDG_CACHE_HOME\"/X11/xcompose\n"
+        },
+        {
+            "path": "~/.compose-cache",
+            "movable": true,
+            "help": "export XCOMPOSEFILE=\"$XDG_CONFIG_HOME\"/X11/xcompose, export XCOMPOSECACHE=\"$XDG_CACHE_HOME\"/X11/xcompose\n"
+        }
+    ]
+}

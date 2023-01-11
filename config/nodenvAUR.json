@@ -1,0 +1,10 @@
+{
+    "name": "nodenvAUR",
+    "files": [
+        {
+            "path": "~/.nodenv",
+            "movable": true,
+            "help": "export NODENV_ROOT=\"$XDG_DATA_HOME\"/nodenv\n"
+        }
+    ]
+}

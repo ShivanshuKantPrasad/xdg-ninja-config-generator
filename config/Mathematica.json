@@ -1,0 +1,10 @@
+{
+    "name": "Mathematica",
+    "files": [
+        {
+            "path": "~/.Mathematica",
+            "movable": true,
+            "help": "export MATHEMATICA_USERBASE=\"$XDG_CONFIG_HOME\"/mathematica\n"
+        }
+    ]
+}

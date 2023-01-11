@@ -1,0 +1,10 @@
+{
+    "name": "getmail",
+    "files": [
+        {
+            "path": "~/.getmail/getmailrc",
+            "movable": true,
+            "help": "getmail --rcfile=\"$XDG_CONFIG_HOME/getmail/getmailrc\" --getmaildir=\"$XDG_DATA_HOME/getmail\"\n"
+        }
+    ]
+}

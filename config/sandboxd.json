@@ -1,0 +1,10 @@
+{
+    "name": "sandboxd",
+    "files": [
+        {
+            "path": "~/.sandboxrc",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/sandboxd/sandboxrc\n_Relevant issue_: https://github.com/benvan/sandboxd/issues/11\n"
+        }
+    ]
+}

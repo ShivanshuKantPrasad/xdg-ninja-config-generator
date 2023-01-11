@@ -1,0 +1,10 @@
+{
+    "name": "cVim[dead link 2022-09-23 ⓘ]",
+    "files": [
+        {
+            "path": "~/.cvimrc",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://github.com/1995eaton/chromium-vim/issues/750\n"
+        }
+    ]
+}

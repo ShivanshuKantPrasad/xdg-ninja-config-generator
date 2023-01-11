@@ -1,0 +1,10 @@
+{
+    "name": "devede",
+    "files": [
+        {
+            "path": "~/.devedeng",
+            "movable": true,
+            "help": "Hardcoded here\n"
+        }
+    ]
+}

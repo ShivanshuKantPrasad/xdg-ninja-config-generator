@@ -1,0 +1,10 @@
+{
+    "name": "MPlayer",
+    "files": [
+        {
+            "path": "~/.mplayer",
+            "movable": true,
+            "help": "export MPLAYER_HOME=\"$XDG_CONFIG_HOME\"/mplayer\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "palemoon",
+    "files": [
+        {
+            "path": "~/.moonchild productions",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://forum.palemoon.org/viewtopic.php?f=5&t=9639\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Docker",
+    "files": [
+        {
+            "path": "~/.docker",
+            "movable": true,
+            "help": "export DOCKER_CONFIG=\"$XDG_CONFIG_HOME\"/docker\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "isync",
+    "files": [
+        {
+            "path": "~/.mbsyncrc",
+            "movable": true,
+            "help": "mbsync -c \"$XDG_CONFIG_HOME\"/isync/mbsyncrc\n_Relevant issue_: https://sourceforge.net/p/isync/feature-requests/14/\n"
+        }
+    ]
+}

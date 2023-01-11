@@ -1,0 +1,10 @@
+{
+    "name": "rTorrent",
+    "files": [
+        {
+            "path": "~/.rtorrent.rc",
+            "movable": true,
+            "help": "\n"
+        }
+    ]
+}

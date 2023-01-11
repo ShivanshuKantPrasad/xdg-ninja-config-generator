@@ -1,0 +1,10 @@
+{
+    "name": "Networkmanager-openvpn",
+    "files": [
+        {
+            "path": "~/.cert/nm-openvpn",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://gitlab.gnome.org/GNOME/NetworkManager-openvpn/issues/35\n"
+        }
+    ]
+}

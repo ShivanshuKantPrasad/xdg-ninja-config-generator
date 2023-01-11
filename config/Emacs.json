@@ -1,0 +1,15 @@
+{
+    "name": "Emacs",
+    "files": [
+        {
+            "path": "~/.emacs",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/emacs/init.el\nLegacy paths have precedence over XDG paths.  Emacs will never create XDG_CONFIG_HOME/emacs/.\nWorkaround for 26.3 or older: It's possible to set HOME, but it has unexpected side effects.\n"
+        },
+        {
+            "path": "~/.emacs.d/init.el",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/emacs/init.el\nLegacy paths have precedence over XDG paths.  Emacs will never create XDG_CONFIG_HOME/emacs/.\nWorkaround for 26.3 or older: It's possible to set HOME, but it has unexpected side effects.\n"
+        }
+    ]
+}

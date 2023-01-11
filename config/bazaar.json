@@ -1,0 +1,15 @@
+{
+    "name": "bazaar",
+    "files": [
+        {
+            "path": "~/.bazaar",
+            "movable": true,
+            "help": "Discussion in upstream bug states that bazaar will use ~/.config/bazaar if it exists. The logfile ~/.bzr.log might still be written.\n_Relevant issue_: https://bugs.launchpad.net/bzr/+bug/195397\n"
+        },
+        {
+            "path": "~/.bzr.log",
+            "movable": true,
+            "help": "Discussion in upstream bug states that bazaar will use ~/.config/bazaar if it exists. The logfile ~/.bzr.log might still be written.\n_Relevant issue_: https://bugs.launchpad.net/bzr/+bug/195397\n"
+        }
+    ]
+}

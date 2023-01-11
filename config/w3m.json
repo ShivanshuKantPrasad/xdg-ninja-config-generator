@@ -1,0 +1,10 @@
+{
+    "name": "w3m",
+    "files": [
+        {
+            "path": "~/.w3m",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://sourceforge.net/p/w3m/feature-requests/31/\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "python-tensorflow",
+    "files": [
+        {
+            "path": "~/.keras",
+            "movable": true,
+            "help": "The issues is for tf.keras module\n_Relevant issue_: https://github.com/tensorflow/tensorflow/issues/38831\n"
+        }
+    ]
+}

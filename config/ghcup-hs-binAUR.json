@@ -1,0 +1,10 @@
+{
+    "name": "ghcup-hs-binAUR",
+    "files": [
+        {
+            "path": "~/.ghcup",
+            "movable": true,
+            "help": "export GHCUP_USE_XDG_DIRS=true\nThe environment variable GHCUP_USE_XDG_DIRS can be set to any non-empty value. See [164].\n_Relevant issue_: https://gitlab.haskell.org/haskell/ghcup-hs/issues/39\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "GTK 2",
+    "files": [
+        {
+            "path": "~/.gtkrc-2.0",
+            "movable": true,
+            "help": "export GTK2_RC_FILES=\"$XDG_CONFIG_HOME\"/gtk-2.0/gtkrc\n"
+        }
+    ]
+}

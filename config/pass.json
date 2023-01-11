@@ -1,0 +1,10 @@
+{
+    "name": "pass",
+    "files": [
+        {
+            "path": "~/.password-store",
+            "movable": true,
+            "help": "export PASSWORD_STORE_DIR=\"$XDG_DATA_HOME\"/pass\n"
+        }
+    ]
+}

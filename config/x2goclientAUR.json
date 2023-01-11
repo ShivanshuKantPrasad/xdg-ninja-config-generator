@@ -1,0 +1,10 @@
+{
+    "name": "x2goclientAUR",
+    "files": [
+        {
+            "path": "~/.x2goclient",
+            "movable": true,
+            "help": "alias x2goclient=\"x2goclient --home=$HOME/.config\"\n"
+        }
+    ]
+}

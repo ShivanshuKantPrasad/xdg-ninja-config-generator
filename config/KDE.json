@@ -1,0 +1,15 @@
+{
+    "name": "KDE",
+    "files": [
+        {
+            "path": "~/.kde",
+            "movable": true,
+            "help": "export KDEHOME=\"$XDG_CONFIG_HOME\"/kde\n_Relevant issue_: https://userbase.kde.org/KDE_System_Administration/KDE_Filesystem_Hierarchy#KDEHOME\n"
+        },
+        {
+            "path": "~/.kde4",
+            "movable": true,
+            "help": "export KDEHOME=\"$XDG_CONFIG_HOME\"/kde\n_Relevant issue_: https://userbase.kde.org/KDE_System_Administration/KDE_Filesystem_Hierarchy#KDEHOME\n"
+        }
+    ]
+}

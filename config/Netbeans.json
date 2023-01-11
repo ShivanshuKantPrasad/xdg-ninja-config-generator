@@ -1,0 +1,10 @@
+{
+    "name": "Netbeans",
+    "files": [
+        {
+            "path": "~/.netbeans",
+            "movable": true,
+            "help": "netbeans --userdir \"${XDG_CONFIG_HOME}\"/netbeans\n_Relevant issue_: https://bz.apache.org/netbeans/show_bug.cgi?id=215961\n"
+        }
+    ]
+}

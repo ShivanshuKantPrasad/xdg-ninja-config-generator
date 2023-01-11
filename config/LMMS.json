@@ -1,0 +1,10 @@
+{
+    "name": "LMMS",
+    "files": [
+        {
+            "path": "~/.lmmsrc.xml",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://github.com/LMMS/lmms/issues/5869\n"
+        }
+    ]
+}

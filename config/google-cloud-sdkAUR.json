@@ -1,0 +1,10 @@
+{
+    "name": "google-cloud-sdkAUR",
+    "files": [
+        {
+            "path": "~/.gsutil/",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://github.com/GoogleCloudPlatform/gsutil/issues/991\n"
+        }
+    ]
+}

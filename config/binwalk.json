@@ -1,0 +1,10 @@
+{
+    "name": "binwalk",
+    "files": [
+        {
+            "path": "~/.binwalk",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/binwalk\n_Relevant issue_: https://github.com/ReFirmLabs/binwalk/issues/216\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "aegisub",
+    "files": [
+        {
+            "path": "~/.aegisub/",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://github.com/Aegisub/Aegisub/issues/226\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "dub",
+    "files": [
+        {
+            "path": "~/.dub",
+            "movable": true,
+            "help": "Dub uses the ~/.dub directory for both user settings and caching downloaded packages. The directory can only be moved as a whole, using export DUB_HOME=\"path/to/new/dub\".\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Kubernetes",
+    "files": [
+        {
+            "path": "~/.kube/",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://github.com/kubernetes/kubectl/issues/942\n"
+        }
+    ]
+}

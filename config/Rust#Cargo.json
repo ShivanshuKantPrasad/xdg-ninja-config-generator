@@ -1,0 +1,10 @@
+{
+    "name": "Rust#Cargo",
+    "files": [
+        {
+            "path": "~/.cargo",
+            "movable": true,
+            "help": "export CARGO_HOME=\"$XDG_DATA_HOME\"/cargo\n_Relevant issue_: https://github.com/rust-lang/cargo/issues/1734\n"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "flutterAUR",
+    "files": [
+        {
+            "path": "~/.flutter",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://github.com/flutter/flutter/issues/59430\n"
+        },
+        {
+            "path": "~/.flutter_settings",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://github.com/flutter/flutter/issues/59430\n"
+        },
+        {
+            "path": "~/.flutter_tool_state",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://github.com/flutter/flutter/issues/59430\n"
+        }
+    ]
+}

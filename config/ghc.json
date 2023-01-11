@@ -1,0 +1,10 @@
+{
+    "name": "ghc",
+    "files": [
+        {
+            "path": "~/.ghci",
+            "movable": true,
+            "help": "Supported upstream from 9.4.1 [161], but as of 2022-09-24 Arch package is 9.0.2 and not yet up-to-date.\n_Relevant issue_: https://ghc.haskell.org/trac/ghc/ticket/6077\n"
+        }
+    ]
+}

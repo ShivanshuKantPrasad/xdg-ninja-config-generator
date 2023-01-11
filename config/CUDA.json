@@ -1,0 +1,10 @@
+{
+    "name": "CUDA",
+    "files": [
+        {
+            "path": "~/.nv",
+            "movable": true,
+            "help": "export CUDA_CACHE_PATH=\"$XDG_CACHE_HOME\"/nv\n"
+        }
+    ]
+}

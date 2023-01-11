@@ -1,0 +1,10 @@
+{
+    "name": "elixir",
+    "files": [
+        {
+            "path": "~/.mix",
+            "movable": true,
+            "help": "Elixir do not fully conform to XDG specs, it will use XDG only if the environment variables are present, otherwise it will by default use legacy path.\n_Relevant issue_: https://github.com/elixir-lang/elixir/issues/8818\n"
+        }
+    ]
+}

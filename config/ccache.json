@@ -1,0 +1,10 @@
+{
+    "name": "ccache",
+    "files": [
+        {
+            "path": "~/.ccache",
+            "movable": true,
+            "help": "XDG_CACHE_HOME/ccache\nXDG_CONFIG_HOME/ccache/ccache.conf\n_Relevant issue_: https://github.com/ccache/ccache/issues/191\n"
+        }
+    ]
+}

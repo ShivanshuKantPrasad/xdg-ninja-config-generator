@@ -1,0 +1,10 @@
+{
+    "name": "readline",
+    "files": [
+        {
+            "path": "~/.inputrc",
+            "movable": true,
+            "help": "export INPUTRC=\"$XDG_CONFIG_HOME\"/readline/inputrc\n"
+        }
+    ]
+}

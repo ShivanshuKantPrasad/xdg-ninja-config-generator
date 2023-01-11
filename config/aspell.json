@@ -1,0 +1,10 @@
+{
+    "name": "aspell",
+    "files": [
+        {
+            "path": "~/.aspell.conf",
+            "movable": true,
+            "help": "export ASPELL_CONF=\"per-conf $XDG_CONFIG_HOME/aspell/aspell.conf; personal $XDG_CONFIG_HOME/aspell/en.pws; repl $XDG_CONFIG_HOME/aspell/en.prepl\"\n_Relevant issue_: https://github.com/GNUAspell/aspell/issues/560\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "cinelerra",
+    "files": [
+        {
+            "path": "~/.bcast5",
+            "movable": true,
+            "help": "export CIN_CONFIG=\"$XDG_CONFIG_HOME\"/bcast5\n_Relevant issue_: https://cinelerra-gg.org/download/CinelerraGG_Manual/Environment_Variables_Custo.html\n"
+        }
+    ]
+}

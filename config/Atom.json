@@ -1,0 +1,10 @@
+{
+    "name": "Atom",
+    "files": [
+        {
+            "path": "~/.atom",
+            "movable": true,
+            "help": "export ATOM_HOME=\"$XDG_DATA_HOME\"/atom\n_Relevant issue_: https://github.com/atom/atom/issues/8281\n"
+        }
+    ]
+}

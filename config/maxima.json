@@ -1,0 +1,10 @@
+{
+    "name": "maxima",
+    "files": [
+        {
+            "path": "~/.maxima",
+            "movable": true,
+            "help": "export MAXIMA_USERDIR=\"$XDG_CONFIG_HOME\"/maxima\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ctags (universial-ctags)",
+    "files": [
+        {
+            "path": "~/.ctagsrc, .ctags.d",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://github.com/universal-ctags/ctags/issues/89\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "aria2",
+    "files": [
+        {
+            "path": "~/.aria2",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/aria2/\nXDG_CACHE_HOME/aria2/\n_Relevant issue_: https://github.com/tatsuhiro-t/aria2/issues/27\n"
+        }
+    ]
+}

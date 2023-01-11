@@ -1,0 +1,10 @@
+{
+    "name": "cgdb",
+    "files": [
+        {
+            "path": "~/.cgdb",
+            "movable": true,
+            "help": "Set export CGDB_DIR=$XDG_CONFIG_HOME/cgdb and move the config file to XDG_CONFIG_HOME/cgdb/cgdbrc\n_Relevant issue_: https://github.com/cgdb/cgdb/issues/203\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "notmuch",
+    "files": [
+        {
+            "path": "~/.notmuch-config",
+            "movable": true,
+            "help": "mkdir -p $XDG_CONFIG_HOME/notmuch/default; mv ~/.notmuch-config $XDG_CONFIG_HOME/notmuch/default/config\n_Relevant issue_: https://notmuchmail.org/pipermail/notmuch/2011/007007.html\n"
+        }
+    ]
+}

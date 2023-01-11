@@ -1,0 +1,10 @@
+{
+    "name": "VirtualBox",
+    "files": [
+        {
+            "path": "~/.VirtualBox",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://www.virtualbox.org/ticket/5099\n"
+        }
+    ]
+}

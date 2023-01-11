@@ -1,0 +1,10 @@
+{
+    "name": "ncurses",
+    "files": [
+        {
+            "path": "~/.terminfo",
+            "movable": true,
+            "help": "Precludes system path searching:\nexport TERMINFO=\"$XDG_DATA_HOME\"/terminfo, export TERMINFO_DIRS=\"$XDG_DATA_HOME\"/terminfo:/usr/share/terminfo\n"
+        }
+    ]
+}

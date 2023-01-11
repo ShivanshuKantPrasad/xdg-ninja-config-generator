@@ -1,0 +1,10 @@
+{
+    "name": "irssi",
+    "files": [
+        {
+            "path": "~/.irssi",
+            "movable": true,
+            "help": "irssi --config=\"$XDG_CONFIG_HOME\"/irssi/config --home=\"$XDG_DATA_HOME\"/irssi\n_Relevant issue_: https://github.com/irssi/irssi/pull/511\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "monero",
+    "files": [
+        {
+            "path": "~/.bitmonero",
+            "movable": true,
+            "help": "monerod --data-dir \"$XDG_DATA_HOME\"/bitmonero\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "chez-schemeAUR",
+    "files": [
+        {
+            "path": "~/.chezscheme_history",
+            "movable": true,
+            "help": "petite --eehistory \"$XDG_DATA_HOME\"/chezscheme/history\n"
+        }
+    ]
+}

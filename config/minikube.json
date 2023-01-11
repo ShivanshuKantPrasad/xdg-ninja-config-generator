@@ -1,0 +1,10 @@
+{
+    "name": "minikube",
+    "files": [
+        {
+            "path": "~/.minikube",
+            "movable": true,
+            "help": "export MINIKUBE_HOME=\"$XDG_DATA_HOME\"/minikube\nCreates a further .minikube directory in MINIKUBE_HOME for whatever reason.\n_Relevant issue_: https://github.com/kubernetes/minikube/issues/4109\n"
+        }
+    ]
+}

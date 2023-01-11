@@ -1,0 +1,15 @@
+{
+    "name": "Vagrant",
+    "files": [
+        {
+            "path": "~/.vagrant.d",
+            "movable": true,
+            "help": "export VAGRANT_HOME=\"$XDG_DATA_HOME\"/vagrant, export VAGRANT_ALIAS_FILE=\"$XDG_DATA_HOME\"/vagrant/aliases\n_Relevant issue_: https://www.vagrantup.com/docs/other/environmental-variables.html\n"
+        },
+        {
+            "path": "~/.vagrant.d/aliases",
+            "movable": true,
+            "help": "export VAGRANT_HOME=\"$XDG_DATA_HOME\"/vagrant, export VAGRANT_ALIAS_FILE=\"$XDG_DATA_HOME\"/vagrant/aliases\n_Relevant issue_: https://www.vagrantup.com/docs/other/environmental-variables.html\n"
+        }
+    ]
+}

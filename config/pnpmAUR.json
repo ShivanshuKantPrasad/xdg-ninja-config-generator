@@ -1,0 +1,10 @@
+{
+    "name": "pnpmAUR",
+    "files": [
+        {
+            "path": "~/.pnpm-store",
+            "movable": true,
+            "help": "Add the line store-dir=${XDG_DATA_HOME}/pnpm-store to your npmrc.\n"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "scummvm",
+    "files": [
+        {
+            "path": "~/.scummvmrc",
+            "movable": true,
+            "help": "It is required to migrate data by hand.\nmkdir \"$XDG_CONFIG_HOME\"/scummvm/ \"$XDG_DATA_HOME\"/scummvm\nmv ~/.scummvmrc \"$XDG_CONFIG_HOME\"/scummvm/scummvm.ini\nmv ~/.scummvm \"$XDG_DATA_HOME\"/scummvm/saves\n_Relevant issue_: https://github.com/scummvm/scummvm/pull/656\n"
+        },
+        {
+            "path": "~/.scummvm/",
+            "movable": true,
+            "help": "It is required to migrate data by hand.\nmkdir \"$XDG_CONFIG_HOME\"/scummvm/ \"$XDG_DATA_HOME\"/scummvm\nmv ~/.scummvmrc \"$XDG_CONFIG_HOME\"/scummvm/scummvm.ini\nmv ~/.scummvm \"$XDG_DATA_HOME\"/scummvm/saves\n_Relevant issue_: https://github.com/scummvm/scummvm/pull/656\n"
+        }
+    ]
+}

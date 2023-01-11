@@ -1,0 +1,10 @@
+{
+    "name": "libice",
+    "files": [
+        {
+            "path": "~/.ICEauthority",
+            "movable": true,
+            "help": "export ICEAUTHORITY=\"$XDG_CACHE_HOME\"/ICEauthority\nMake sure XDG_CACHE_HOME is set beforehand to directory user running Xorg has write access to.\nDo not use XDG_RUNTIME_DIR as it is available after login. Display managers that launch Xorg (like GDM) will repeatedly fail otherwise.\n_Relevant issue_: https://gitlab.freedesktop.org/xorg/lib/libice/issues/2\n"
+        }
+    ]
+}

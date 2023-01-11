@@ -1,0 +1,10 @@
+{
+    "name": "opam",
+    "files": [
+        {
+            "path": "~/.opam",
+            "movable": true,
+            "help": "export OPAMROOT=\"$XDG_DATA_HOME/opam\"\nBoth configuration and state data are stored in OPAMROOT, so this solution is not fully compliant.\n_Relevant issue_: https://github.com/ocaml/opam/issues/3766\n"
+        }
+    ]
+}

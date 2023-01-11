@@ -1,0 +1,10 @@
+{
+    "name": "Apache Directory Studio",
+    "files": [
+        {
+            "path": "~/.ApacheDirectoryStudio",
+            "movable": true,
+            "help": "\n"
+        }
+    ]
+}

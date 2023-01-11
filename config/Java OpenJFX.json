@@ -1,0 +1,10 @@
+{
+    "name": "Java OpenJFX",
+    "files": [
+        {
+            "path": "~/.java/webview",
+            "movable": true,
+            "help": "\n"
+        }
+    ]
+}

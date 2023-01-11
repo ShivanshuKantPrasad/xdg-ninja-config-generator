@@ -1,0 +1,10 @@
+{
+    "name": "mypy",
+    "files": [
+        {
+            "path": "~/.mypy_cache",
+            "movable": true,
+            "help": "export MYPY_CACHE_DIR=\"$XDG_CACHE_HOME\"/mypy\n_Relevant issue_: https://github.com/python/mypy/issues/8790\n"
+        }
+    ]
+}

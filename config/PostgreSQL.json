@@ -1,0 +1,25 @@
+{
+    "name": "PostgreSQL",
+    "files": [
+        {
+            "path": "~/.psqlrc",
+            "movable": true,
+            "help": "export PSQLRC=\"$XDG_CONFIG_HOME/pg/psqlrc\", export PSQL_HISTORY=\"$XDG_STATE_HOME/psql_history\", export PGPASSFILE=\"$XDG_CONFIG_HOME/pg/pgpass\", export PGSERVICEFILE=\"$XDG_CONFIG_HOME/pg/pg_service.conf\"\nIt is required to create both directories: mkdir \"$XDG_CONFIG_HOME/pg\" && mkdir \"$XDG_STATE_HOME\"\n_Relevant issue_: https://www.postgresql.org/docs/current/static/app-psql.html\n"
+        },
+        {
+            "path": "~/.psql_history",
+            "movable": true,
+            "help": "export PSQLRC=\"$XDG_CONFIG_HOME/pg/psqlrc\", export PSQL_HISTORY=\"$XDG_STATE_HOME/psql_history\", export PGPASSFILE=\"$XDG_CONFIG_HOME/pg/pgpass\", export PGSERVICEFILE=\"$XDG_CONFIG_HOME/pg/pg_service.conf\"\nIt is required to create both directories: mkdir \"$XDG_CONFIG_HOME/pg\" && mkdir \"$XDG_STATE_HOME\"\n_Relevant issue_: https://www.postgresql.org/docs/current/static/app-psql.html\n"
+        },
+        {
+            "path": "~/.pgpass",
+            "movable": true,
+            "help": "export PSQLRC=\"$XDG_CONFIG_HOME/pg/psqlrc\", export PSQL_HISTORY=\"$XDG_STATE_HOME/psql_history\", export PGPASSFILE=\"$XDG_CONFIG_HOME/pg/pgpass\", export PGSERVICEFILE=\"$XDG_CONFIG_HOME/pg/pg_service.conf\"\nIt is required to create both directories: mkdir \"$XDG_CONFIG_HOME/pg\" && mkdir \"$XDG_STATE_HOME\"\n_Relevant issue_: https://www.postgresql.org/docs/current/static/app-psql.html\n"
+        },
+        {
+            "path": "~/.pg_service.conf",
+            "movable": true,
+            "help": "export PSQLRC=\"$XDG_CONFIG_HOME/pg/psqlrc\", export PSQL_HISTORY=\"$XDG_STATE_HOME/psql_history\", export PGPASSFILE=\"$XDG_CONFIG_HOME/pg/pgpass\", export PGSERVICEFILE=\"$XDG_CONFIG_HOME/pg/pg_service.conf\"\nIt is required to create both directories: mkdir \"$XDG_CONFIG_HOME/pg\" && mkdir \"$XDG_STATE_HOME\"\n_Relevant issue_: https://www.postgresql.org/docs/current/static/app-psql.html\n"
+        }
+    ]
+}

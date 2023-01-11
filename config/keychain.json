@@ -1,0 +1,10 @@
+{
+    "name": "keychain",
+    "files": [
+        {
+            "path": "~/.keychain",
+            "movable": true,
+            "help": "keychain --absolute --dir \"$XDG_RUNTIME_DIR\"/keychain\n_Relevant issue_: https://github.com/funtoo/keychain/issues/8\n"
+        }
+    ]
+}

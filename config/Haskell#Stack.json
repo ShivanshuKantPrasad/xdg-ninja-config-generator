@@ -1,0 +1,10 @@
+{
+    "name": "Haskell#Stack",
+    "files": [
+        {
+            "path": "~/.stack",
+            "movable": true,
+            "help": "export STACK_ROOT=\"$XDG_DATA_HOME\"/stack\n_Relevant issue_: https://github.com/commercialhaskell/stack/issues/342\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "k9s",
+    "files": [
+        {
+            "path": "~/.k9s",
+            "movable": true,
+            "help": "export K9SCONFIG=\"$XDG_CONFIG_HOME\"/k9s\n_Relevant issue_: https://github.com/derailed/k9s/issues/743\n"
+        }
+    ]
+}

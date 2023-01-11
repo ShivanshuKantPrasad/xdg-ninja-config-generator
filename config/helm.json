@@ -1,0 +1,10 @@
+{
+    "name": "helm",
+    "files": [
+        {
+            "path": "~/.helm",
+            "movable": true,
+            "help": "\n"
+        }
+    ]
+}

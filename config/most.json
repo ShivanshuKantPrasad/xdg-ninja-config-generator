@@ -1,0 +1,10 @@
+{
+    "name": "most",
+    "files": [
+        {
+            "path": "~/.mostrc",
+            "movable": true,
+            "help": "export MOST_INITFILE=\"$XDG_CONFIG_HOME\"/mostrc\n"
+        }
+    ]
+}

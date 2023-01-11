@@ -1,0 +1,10 @@
+{
+    "name": "xorg-xauth",
+    "files": [
+        {
+            "path": "~/.Xauthority",
+            "movable": true,
+            "help": "export XAUTHORITY=\"$XDG_RUNTIME_DIR\"/Xauthority\nNote that LightDM does not allow you to change this variable. If you change it nonetheless, you will not be able to login. Use startx instead or configure LightDM. According to [239] SLiM has ~/.Xauthority hardcoded.\nThe SDDM Xauthority path can be changed in its own configuration files as shown below. Unfortunately, it is relative to the home directory.\n\n/etc/sddm.conf.d/xauth-path.conf\n[X11]\nUserAuthFile=.Xauthority\n"
+        }
+    ]
+}

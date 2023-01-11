@@ -1,0 +1,10 @@
+{
+    "name": "freecad",
+    "files": [
+        {
+            "path": "~/.FreeCAD",
+            "movable": true,
+            "help": "Defaults to\nXDG_CONFIG_HOME/FreeCAD\nXDG_DATA_HOME/FreeCAD\nXDG_CACHE_HOME/FreeCAD\n\nlegacy path can be used with FreeCAD --keep-deprecated-paths\n_Relevant issue_: https://forum.freecad.org/viewtopic.php?f=9&t=63648\n"
+        }
+    ]
+}

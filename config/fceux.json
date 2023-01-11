@@ -1,0 +1,10 @@
+{
+    "name": "fceux",
+    "files": [
+        {
+            "path": "~/.fceux/",
+            "movable": true,
+            "help": "export FCEUX_HOME=\"$XDG_CONFIG_HOME\"/fceux. Fceux will create .fceux directory inside $FCEUX_HOME.\n_Relevant issue_: https://github.com/TASEmulators/fceux/issues/412\n"
+        }
+    ]
+}

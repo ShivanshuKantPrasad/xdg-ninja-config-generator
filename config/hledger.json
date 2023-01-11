@@ -1,0 +1,10 @@
+{
+    "name": "hledger",
+    "files": [
+        {
+            "path": "~/.hledger.journal",
+            "movable": true,
+            "help": "export LEDGER_FILE=\"$XDG_DATA_HOME\"/hledger.journal\n_Relevant issue_: https://github.com/simonmichael/hledger/issues/1081\n"
+        }
+    ]
+}

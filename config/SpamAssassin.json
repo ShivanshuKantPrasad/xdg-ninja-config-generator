@@ -1,0 +1,10 @@
+{
+    "name": "SpamAssassin",
+    "files": [
+        {
+            "path": "~/.spamassassin",
+            "movable": true,
+            "help": "\n"
+        }
+    ]
+}

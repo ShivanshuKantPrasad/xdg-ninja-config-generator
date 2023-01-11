@@ -1,0 +1,10 @@
+{
+    "name": "kodi",
+    "files": [
+        {
+            "path": "~/.kodi",
+            "movable": true,
+            "help": "KODI_DATA=$XDG_DATA_HOME/kodi\n_Relevant issue_: https://github.com/xbmc/xbmc/pull/6142\n"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "SQLite",
+    "files": [
+        {
+            "path": "~/.sqlite_history",
+            "movable": true,
+            "help": "export SQLITE_HISTORY=$XDG_DATA_HOME/sqlite_history, sqlite3 -init \"$XDG_CONFIG_HOME\"/sqlite3/sqliterc\n_Relevant issue_: https://www.sqlite.org/src/info/696e82f7c82d1720\n"
+        },
+        {
+            "path": "~/.sqliterc",
+            "movable": true,
+            "help": "export SQLITE_HISTORY=$XDG_DATA_HOME/sqlite_history, sqlite3 -init \"$XDG_CONFIG_HOME\"/sqlite3/sqliterc\n_Relevant issue_: https://www.sqlite.org/src/info/696e82f7c82d1720\n"
+        }
+    ]
+}

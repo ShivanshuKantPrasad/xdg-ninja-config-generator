@@ -1,0 +1,10 @@
+{
+    "name": "Rust#Rustup",
+    "files": [
+        {
+            "path": "~/.rustup",
+            "movable": true,
+            "help": "export RUSTUP_HOME=\"$XDG_DATA_HOME\"/rustup\n_Relevant issue_: https://github.com/rust-lang-nursery/rustup.rs/issues/247\n"
+        }
+    ]
+}

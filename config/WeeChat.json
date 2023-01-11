@@ -1,0 +1,10 @@
+{
+    "name": "WeeChat",
+    "files": [
+        {
+            "path": "~/.weechat",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/weechat\nXDG_CACHE_HOME/weechat\nXDG_DATA_HOME/weechat\n_Relevant issue_: https://github.com/weechat/weechat/issues/1285\n"
+        }
+    ]
+}

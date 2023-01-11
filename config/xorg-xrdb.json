@@ -1,0 +1,15 @@
+{
+    "name": "xorg-xrdb",
+    "files": [
+        {
+            "path": "~/.Xresources",
+            "movable": true,
+            "help": "Ultimately you should be using Xresources and since these resources are loaded via xrdb you can specify a path such as xrdb -load ~/.config/X11/xresources.\n"
+        },
+        {
+            "path": "~/.Xdefaults",
+            "movable": true,
+            "help": "Ultimately you should be using Xresources and since these resources are loaded via xrdb you can specify a path such as xrdb -load ~/.config/X11/xresources.\n"
+        }
+    ]
+}

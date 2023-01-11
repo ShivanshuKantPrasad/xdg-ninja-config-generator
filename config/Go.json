@@ -1,0 +1,10 @@
+{
+    "name": "Go",
+    "files": [
+        {
+            "path": "~/go",
+            "movable": true,
+            "help": "export GOPATH=\"$XDG_DATA_HOME\"/go, export GOMODCACHE=\"$XDG_CACHE_HOME\"/go/mod\nIf GOMODCACHE is not set, it defaults to $GOPATH/pkg/mod (see [169]).\nGOCACHE is supported and defaults to $XDG_CACHE_HOME/go-build (see [170]).\n"
+        }
+    ]
+}

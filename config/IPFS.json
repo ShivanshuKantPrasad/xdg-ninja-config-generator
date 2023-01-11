@@ -1,0 +1,10 @@
+{
+    "name": "IPFS",
+    "files": [
+        {
+            "path": "~/.ipfs",
+            "movable": true,
+            "help": "export IPFS_PATH=\"$XDG_DATA_HOME\"/ipfs\n"
+        }
+    ]
+}

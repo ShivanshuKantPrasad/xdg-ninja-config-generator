@@ -1,0 +1,10 @@
+{
+    "name": "ncmpc",
+    "files": [
+        {
+            "path": "~/.ncmpc",
+            "movable": true,
+            "help": "ncmpc -f \"$XDG_CONFIG_HOME\"/ncmpc/config\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "GnuPG",
+    "files": [
+        {
+            "path": "~/.gnupg",
+            "movable": true,
+            "help": "export GNUPGHOME=\"$XDG_DATA_HOME\"/gnupg, gpg2 --homedir \"$XDG_DATA_HOME\"/gnupg\nNote that this currently does not work out-of-the-box using systemd user units and socket-based activation, since the socket directory changes based on the hash of $GNUPGHOME. You can get the new socket directory using gpgconf --dry-run --create-socketdir and have to modify the systemd user units to listen on the correct sockets accordingly.\n_Relevant issue_: https://bugs.gnupg.org/gnupg/issue1456\n"
+        }
+    ]
+}

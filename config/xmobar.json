@@ -1,0 +1,10 @@
+{
+    "name": "xmobar",
+    "files": [
+        {
+            "path": "~/.xmobarrc",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/xmobar/xmobarrc\n_Relevant issue_: https://github.com/jaor/xmobar/pull/99\n"
+        }
+    ]
+}

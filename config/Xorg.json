@@ -1,0 +1,25 @@
+{
+    "name": "Xorg",
+    "files": [
+        {
+            "path": "~/.xsession",
+            "movable": true,
+            "help": "These can be added as part of your Xorg init script (~/.xinitrc) or Xsession start script (which will often be based on /etc/X11/Xsession).\nDepending on where you have configured your $XDG_CACHE_HOME, you made need to expand the paths yourself.\n\n# xsession start script\nUSERXSESSION=\"$XDG_CACHE_HOME/X11/xsession\"\nUSERXSESSIONRC=\"$XDG_CACHE_HOME/X11/xsessionrc\"\nALTUSERXSESSION=\"$XDG_CACHE_HOME/X11/Xsession\"\nERRFILE=\"$XDG_CACHE_HOME/X11/xsession-errors\"\n\nUnlike most other examples in this table, actual X11 init scripts will vary a lot between installations.\n"
+        },
+        {
+            "path": "~/.xsessionrc",
+            "movable": true,
+            "help": "These can be added as part of your Xorg init script (~/.xinitrc) or Xsession start script (which will often be based on /etc/X11/Xsession).\nDepending on where you have configured your $XDG_CACHE_HOME, you made need to expand the paths yourself.\n\n# xsession start script\nUSERXSESSION=\"$XDG_CACHE_HOME/X11/xsession\"\nUSERXSESSIONRC=\"$XDG_CACHE_HOME/X11/xsessionrc\"\nALTUSERXSESSION=\"$XDG_CACHE_HOME/X11/Xsession\"\nERRFILE=\"$XDG_CACHE_HOME/X11/xsession-errors\"\n\nUnlike most other examples in this table, actual X11 init scripts will vary a lot between installations.\n"
+        },
+        {
+            "path": "~/.Xsession",
+            "movable": true,
+            "help": "These can be added as part of your Xorg init script (~/.xinitrc) or Xsession start script (which will often be based on /etc/X11/Xsession).\nDepending on where you have configured your $XDG_CACHE_HOME, you made need to expand the paths yourself.\n\n# xsession start script\nUSERXSESSION=\"$XDG_CACHE_HOME/X11/xsession\"\nUSERXSESSIONRC=\"$XDG_CACHE_HOME/X11/xsessionrc\"\nALTUSERXSESSION=\"$XDG_CACHE_HOME/X11/Xsession\"\nERRFILE=\"$XDG_CACHE_HOME/X11/xsession-errors\"\n\nUnlike most other examples in this table, actual X11 init scripts will vary a lot between installations.\n"
+        },
+        {
+            "path": "~/.xsession-errors",
+            "movable": true,
+            "help": "These can be added as part of your Xorg init script (~/.xinitrc) or Xsession start script (which will often be based on /etc/X11/Xsession).\nDepending on where you have configured your $XDG_CACHE_HOME, you made need to expand the paths yourself.\n\n# xsession start script\nUSERXSESSION=\"$XDG_CACHE_HOME/X11/xsession\"\nUSERXSESSIONRC=\"$XDG_CACHE_HOME/X11/xsessionrc\"\nALTUSERXSESSION=\"$XDG_CACHE_HOME/X11/Xsession\"\nERRFILE=\"$XDG_CACHE_HOME/X11/xsession-errors\"\n\nUnlike most other examples in this table, actual X11 init scripts will vary a lot between installations.\n"
+        }
+    ]
+}

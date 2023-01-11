@@ -1,0 +1,10 @@
+{
+    "name": "jupyter",
+    "files": [
+        {
+            "path": "~/.jupyter",
+            "movable": true,
+            "help": "python-jupyter_core < v5.0.0:\nexport JUPYTER_CONFIG_DIR=\"$XDG_CONFIG_HOME\"/jupyter\nv5.0.0 <= python-jupyter_core < v6.0.0:\nexport JUPYTER_PLATFORM_DIRS=\"1\" (see [180])\npython-jupyter_core >= v6.0.0: full support (via python-platformdirs) enabled by default\n_Relevant issue_: https://github.com/jupyter/jupyter_core/issues/185\n"
+        }
+    ]
+}

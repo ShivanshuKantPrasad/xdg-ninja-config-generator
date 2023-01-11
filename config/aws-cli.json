@@ -1,0 +1,10 @@
+{
+    "name": "aws-cli",
+    "files": [
+        {
+            "path": "~/.aws",
+            "movable": true,
+            "help": "export AWS_SHARED_CREDENTIALS_FILE=\"$XDG_CONFIG_HOME\"/aws/credentials, export AWS_CONFIG_FILE=\"$XDG_CONFIG_HOME\"/aws/config\n_Relevant issue_: https://github.com/aws/aws-cli/issues/2433\n"
+        }
+    ]
+}

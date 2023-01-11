@@ -1,0 +1,10 @@
+{
+    "name": "dict",
+    "files": [
+        {
+            "path": "~/.dictrc",
+            "movable": true,
+            "help": "dict -c \"$XDG_CONFIG_HOME\"/dict/dictrc\n"
+        }
+    ]
+}

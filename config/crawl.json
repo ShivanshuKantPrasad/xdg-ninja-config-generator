@@ -1,0 +1,10 @@
+{
+    "name": "crawl",
+    "files": [
+        {
+            "path": "~/.crawl",
+            "movable": true,
+            "help": "The trailing slash is required:\nexport CRAWL_DIR=\"$XDG_DATA_HOME\"/crawl/\n"
+        }
+    ]
+}

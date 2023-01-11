@@ -1,0 +1,10 @@
+{
+    "name": "adb & Android Studio",
+    "files": [
+        {
+            "path": "~/.android/",
+            "movable": true,
+            "help": "Despite appearances otherwise, adb will always generate ~/.android/adbkeys, though it will try keys in ADB_VENDOR_KEYS as well.\n"
+        }
+    ]
+}

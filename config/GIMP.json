@@ -1,0 +1,15 @@
+{
+    "name": "GIMP",
+    "files": [
+        {
+            "path": "~/.gimp-x.y",
+            "movable": true,
+            "help": "\n"
+        },
+        {
+            "path": "~/.thumbnails",
+            "movable": true,
+            "help": "\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ALSA",
+    "files": [
+        {
+            "path": "~/.asoundrc",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/alsa/asoundrc\n_Relevant issue_: https://github.com/alsa-project/alsa-lib/issues/49\n"
+        }
+    ]
+}

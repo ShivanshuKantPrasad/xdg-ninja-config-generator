@@ -1,0 +1,10 @@
+{
+    "name": "SageMath",
+    "files": [
+        {
+            "path": "~/.sage",
+            "movable": true,
+            "help": "export DOT_SAGE=\"$XDG_CONFIG_HOME\"/sage\n"
+        }
+    ]
+}

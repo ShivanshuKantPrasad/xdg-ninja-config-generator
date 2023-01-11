@@ -1,0 +1,10 @@
+{
+    "name": "ruby-travisAUR",
+    "files": [
+        {
+            "path": "~/.travis/",
+            "movable": true,
+            "help": "export TRAVIS_CONFIG_PATH=$XDG_CONFIG_HOME/travis\n_Relevant issue_: https://github.com/travis-ci/travis.rb/issues/219\n"
+        }
+    ]
+}

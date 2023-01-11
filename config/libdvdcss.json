@@ -1,0 +1,10 @@
+{
+    "name": "libdvdcss",
+    "files": [
+        {
+            "path": "~/.dvdcss",
+            "movable": true,
+            "help": "export DVDCSS_CACHE=\"$XDG_DATA_HOME\"/dvdcss\n_Relevant issue_: https://mailman.videolan.org/pipermail/libdvdcss-devel/2014-August/001022.html\n"
+        }
+    ]
+}

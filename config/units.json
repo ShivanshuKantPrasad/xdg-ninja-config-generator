@@ -1,0 +1,10 @@
+{
+    "name": "units",
+    "files": [
+        {
+            "path": "~/.units_history",
+            "movable": true,
+            "help": "units --history \"$XDG_CACHE_HOME\"/units_history\n"
+        }
+    ]
+}

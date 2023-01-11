@@ -1,0 +1,15 @@
+{
+    "name": "ledger",
+    "files": [
+        {
+            "path": "~/.ledgerrc",
+            "movable": true,
+            "help": "ledger --init-file \"$XDG_CONFIG_HOME\"/ledgerrc\n_Relevant issue_: https://github.com/ledger/ledger/issues/1820\n"
+        },
+        {
+            "path": "~/.pricedb",
+            "movable": true,
+            "help": "ledger --init-file \"$XDG_CONFIG_HOME\"/ledgerrc\n_Relevant issue_: https://github.com/ledger/ledger/issues/1820\n"
+        }
+    ]
+}

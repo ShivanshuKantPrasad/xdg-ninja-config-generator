@@ -1,0 +1,20 @@
+{
+    "name": "MySQL",
+    "files": [
+        {
+            "path": "~/.mysql_history",
+            "movable": true,
+            "help": "export MYSQL_HISTFILE=\"$XDG_DATA_HOME\"/mysql_history\n~/.my.cnf only supported for mysql-server, not mysql-client [196]\n~/.mylogin.cnf unsupported\n"
+        },
+        {
+            "path": "~/.my.cnf",
+            "movable": true,
+            "help": "export MYSQL_HISTFILE=\"$XDG_DATA_HOME\"/mysql_history\n~/.my.cnf only supported for mysql-server, not mysql-client [196]\n~/.mylogin.cnf unsupported\n"
+        },
+        {
+            "path": "~/.mylogin.cnf",
+            "movable": true,
+            "help": "export MYSQL_HISTFILE=\"$XDG_DATA_HOME\"/mysql_history\n~/.my.cnf only supported for mysql-server, not mysql-client [196]\n~/.mylogin.cnf unsupported\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "audacity",
+    "files": [
+        {
+            "path": "~/.audacity-data/",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/audacity\nXDG_DATA_HOME/audacity\n_Relevant issue_: https://bugzilla.audacityteam.org/show_bug.cgi?id=2201\n"
+        }
+    ]
+}

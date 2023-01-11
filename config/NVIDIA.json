@@ -1,0 +1,10 @@
+{
+    "name": "NVIDIA",
+    "files": [
+        {
+            "path": "~/.nv",
+            "movable": true,
+            "help": "Uses XDG_CACHE_HOME if set, otherwise improperly falls back to ~/.nv instead of ~/.cache.\n"
+        }
+    ]
+}

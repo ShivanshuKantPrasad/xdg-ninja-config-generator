@@ -1,0 +1,10 @@
+{
+    "name": "msmtp",
+    "files": [
+        {
+            "path": "~/.msmtprc",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/msmtp/config.\n"
+        }
+    ]
+}

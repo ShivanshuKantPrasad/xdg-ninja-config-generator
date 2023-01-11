@@ -1,0 +1,10 @@
+{
+    "name": "TeXmacs",
+    "files": [
+        {
+            "path": "~/.TeXmacs",
+            "movable": true,
+            "help": "export TEXMACS_HOME_PATH=$XDG_STATE_HOME/texmacs\n"
+        }
+    ]
+}

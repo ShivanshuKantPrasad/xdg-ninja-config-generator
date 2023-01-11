@@ -1,0 +1,15 @@
+{
+    "name": "wget",
+    "files": [
+        {
+            "path": "~/.wgetrc",
+            "movable": true,
+            "help": "export WGETRC=\"$XDG_CONFIG_HOME/wgetrc\" and add the following as an alias for wget: wget --hsts-file=\"$XDG_CACHE_HOME/wget-hsts\", or set the hsts-file variable with an absolute path as wgetrc does not support environment variables: echo hsts-file \\= \"$XDG_CACHE_HOME\"/wget-hsts >> \"$XDG_CONFIG_HOME/wgetrc\"\n"
+        },
+        {
+            "path": "~/.wget-hsts",
+            "movable": true,
+            "help": "export WGETRC=\"$XDG_CONFIG_HOME/wgetrc\" and add the following as an alias for wget: wget --hsts-file=\"$XDG_CACHE_HOME/wget-hsts\", or set the hsts-file variable with an absolute path as wgetrc does not support environment variables: echo hsts-file \\= \"$XDG_CACHE_HOME\"/wget-hsts >> \"$XDG_CONFIG_HOME/wgetrc\"\n"
+        }
+    ]
+}

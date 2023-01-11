@@ -1,0 +1,10 @@
+{
+    "name": "cd-bookmark",
+    "files": [
+        {
+            "path": "~/.cdbookmark",
+            "movable": true,
+            "help": "export CD_BOOKMARK_FILE=$XDG_CONFIG_HOME/cd-bookmark/bookmarks\nor use the fork that has native XDG support: [143]\n_Relevant issue_: https://github.com/mollifier/cd-bookmark/issues/3\n"
+        }
+    ]
+}

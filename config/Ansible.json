@@ -1,0 +1,10 @@
+{
+    "name": "Ansible",
+    "files": [
+        {
+            "path": "~/.ansible",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://github.com/ansible/ansible/issues/52354\n"
+        }
+    ]
+}

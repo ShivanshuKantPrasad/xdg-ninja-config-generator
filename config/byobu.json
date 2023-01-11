@@ -1,0 +1,10 @@
+{
+    "name": "byobu",
+    "files": [
+        {
+            "path": "~/.byobu",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/byobu\nLegacy path takes precedence if present, or if XDG_CONFIG_HOME is not set.\n_Relevant issue_: https://bugs.launchpad.net/byobu/+bug/553105\n"
+        }
+    ]
+}

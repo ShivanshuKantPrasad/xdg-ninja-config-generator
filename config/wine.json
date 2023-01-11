@@ -1,0 +1,10 @@
+{
+    "name": "wine",
+    "files": [
+        {
+            "path": "~/.wine",
+            "movable": true,
+            "help": "Winetricks uses XDG-alike location below for WINEPREFIX management:\nmkdir -p \"$XDG_DATA_HOME\"/wineprefixes, export WINEPREFIX=\"$XDG_DATA_HOME\"/wineprefixes/default\n_Relevant issue_: https://bugs.winehq.org/show_bug.cgi?id=20888\n"
+        }
+    ]
+}

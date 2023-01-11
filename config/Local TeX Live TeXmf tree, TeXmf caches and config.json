@@ -1,0 +1,20 @@
+{
+    "name": "Local TeX Live TeXmf tree, TeXmf caches and config",
+    "files": [
+        {
+            "path": "~/texmf",
+            "movable": true,
+            "help": "export TEXMFHOME=$XDG_DATA_HOME/texmf, export TEXMFVAR=$XDG_CACHE_HOME/texlive/texmf-var, export TEXMFCONFIG=$XDG_CONFIG_HOME/texlive/texmf-config\n"
+        },
+        {
+            "path": "~/.texlive/texmf-var",
+            "movable": true,
+            "help": "export TEXMFHOME=$XDG_DATA_HOME/texmf, export TEXMFVAR=$XDG_CACHE_HOME/texlive/texmf-var, export TEXMFCONFIG=$XDG_CONFIG_HOME/texlive/texmf-config\n"
+        },
+        {
+            "path": "~/.texlive/texmf-config",
+            "movable": true,
+            "help": "export TEXMFHOME=$XDG_DATA_HOME/texmf, export TEXMFVAR=$XDG_CACHE_HOME/texlive/texmf-var, export TEXMFCONFIG=$XDG_CONFIG_HOME/texlive/texmf-config\n"
+        }
+    ]
+}

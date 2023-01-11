@@ -1,0 +1,15 @@
+{
+    "name": "tig",
+    "files": [
+        {
+            "path": "~/.tigrc",
+            "movable": true,
+            "help": "~/.local/share/tig directory must exist, writes to ~/.tig_history otherwise.\n_Relevant issue_: https://github.com/jonas/tig/issues/513\n"
+        },
+        {
+            "path": "~/.tig_history",
+            "movable": true,
+            "help": "~/.local/share/tig directory must exist, writes to ~/.tig_history otherwise.\n_Relevant issue_: https://github.com/jonas/tig/issues/513\n"
+        }
+    ]
+}

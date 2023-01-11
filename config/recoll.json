@@ -1,0 +1,10 @@
+{
+    "name": "recoll",
+    "files": [
+        {
+            "path": "~/.recoll",
+            "movable": true,
+            "help": "export RECOLL_CONFDIR=\"$XDG_CONFIG_HOME/recoll\"\n"
+        }
+    ]
+}

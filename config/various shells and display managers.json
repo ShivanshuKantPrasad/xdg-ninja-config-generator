@@ -1,0 +1,10 @@
+{
+    "name": "various shells and display managers",
+    "files": [
+        {
+            "path": "~/.profile",
+            "movable": true,
+            "help": "\n"
+        }
+    ]
+}

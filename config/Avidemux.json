@@ -1,0 +1,10 @@
+{
+    "name": "Avidemux",
+    "files": [
+        {
+            "path": "~/.avidemux6",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://avidemux.org/smif/index.php/topic,19596.0.html\n"
+        }
+    ]
+}

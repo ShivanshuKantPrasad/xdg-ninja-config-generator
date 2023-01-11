@@ -1,0 +1,10 @@
+{
+    "name": "mednafen",
+    "files": [
+        {
+            "path": "~/.mednafen",
+            "movable": true,
+            "help": "export MEDNAFEN_HOME=\"$XDG_CONFIG_HOME\"/mednafen\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Minecraft",
+    "files": [
+        {
+            "path": "~/.minecraft/",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://bugs.mojang.com/browse/MCL-2563\n"
+        }
+    ]
+}

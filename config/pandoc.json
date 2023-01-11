@@ -1,0 +1,10 @@
+{
+    "name": "pandoc",
+    "files": [
+        {
+            "path": "~/.pandoc/",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://github.com/jgm/pandoc/issues/3582\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "cURL",
+    "files": [
+        {
+            "path": "~/.curlrc",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/.curlrc\n_Relevant issue_: https://github.com/curl/curl/issues/5829\n"
+        }
+    ]
+}

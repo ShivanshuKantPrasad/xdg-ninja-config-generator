@@ -1,0 +1,10 @@
+{
+    "name": "Unison",
+    "files": [
+        {
+            "path": "~/.unison",
+            "movable": true,
+            "help": "export UNISON=\"$XDG_DATA_HOME\"/unison\n"
+        }
+    ]
+}

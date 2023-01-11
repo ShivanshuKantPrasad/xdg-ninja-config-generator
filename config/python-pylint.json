@@ -1,0 +1,10 @@
+{
+    "name": "python-pylint",
+    "files": [
+        {
+            "path": "~/.pylint.d",
+            "movable": true,
+            "help": "Formerly export PYLINTHOME=\"$XDG_CACHE_HOME\"/pylint, global config still needs: export PYLINTRC=\"$XDG_CONFIG_HOME\"/pylint/pylintrc\n_Relevant issue_: https://github.com/PyCQA/pylint/issues/1364\n"
+        }
+    ]
+}

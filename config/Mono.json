@@ -1,0 +1,10 @@
+{
+    "name": "Mono",
+    "files": [
+        {
+            "path": "~/.mono/",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://github.com/mono/mono/pull/12764\n"
+        }
+    ]
+}

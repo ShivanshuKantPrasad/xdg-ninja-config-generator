@@ -1,0 +1,10 @@
+{
+    "name": "Flatpak",
+    "files": [
+        {
+            "path": "~/.var/",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://github.com/flatpak/flatpak/issues/46\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "calc",
+    "files": [
+        {
+            "path": "~/.calc_history",
+            "movable": true,
+            "help": "export CALCHISTFILE=\"$XDG_CACHE_HOME\"/calc_history\n"
+        }
+    ]
+}

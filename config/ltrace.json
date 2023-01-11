@@ -1,0 +1,10 @@
+{
+    "name": "ltrace",
+    "files": [
+        {
+            "path": "~/.ltrace.conf",
+            "movable": true,
+            "help": "ltrace -F \"$XDG_CONFIG_HOME\"/ltrace/ltrace.conf\n"
+        }
+    ]
+}

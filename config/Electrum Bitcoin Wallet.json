@@ -1,0 +1,10 @@
+{
+    "name": "Electrum Bitcoin Wallet",
+    "files": [
+        {
+            "path": "~/.electrum",
+            "movable": true,
+            "help": "export ELECTRUMDIR=\"$XDG_DATA_HOME/electrum\"\n"
+        }
+    ]
+}

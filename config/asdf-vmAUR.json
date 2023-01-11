@@ -1,0 +1,15 @@
+{
+    "name": "asdf-vmAUR",
+    "files": [
+        {
+            "path": "~/.asdfrc",
+            "movable": true,
+            "help": "export ASDF_CONFIG_FILE=\"${XDG_CONFIG_HOME}/asdf/asdfrc\", export ASDF_DATA_DIR=${XDG_DATA_HOME}/asdf\"\n_Relevant issue_: https://github.com/asdf-vm/asdf/issues/687\n"
+        },
+        {
+            "path": "~/.asdf/",
+            "movable": true,
+            "help": "export ASDF_CONFIG_FILE=\"${XDG_CONFIG_HOME}/asdf/asdfrc\", export ASDF_DATA_DIR=${XDG_DATA_HOME}/asdf\"\n_Relevant issue_: https://github.com/asdf-vm/asdf/issues/687\n"
+        }
+    ]
+}

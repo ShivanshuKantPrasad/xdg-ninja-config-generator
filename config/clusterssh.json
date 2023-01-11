@@ -1,0 +1,10 @@
+{
+    "name": "clusterssh",
+    "files": [
+        {
+            "path": "~/.clusterssh/",
+            "movable": true,
+            "help": "alias cssh=\"cssh --config-file '$XDG_CONFIG_HOME/clusterssh/config'\"\n$XDG_CONFIG_HOME/clusterssh/config\nextra_cluster_file=$HOME/.config/clusterssh/clusters\nextra_tag_file=$HOME/.config/clusterssh/tags\nDespite this, clusterssh will still create ~/.clusterssh/.\n"
+        }
+    ]
+}

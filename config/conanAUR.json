@@ -1,0 +1,10 @@
+{
+    "name": "conanAUR",
+    "files": [
+        {
+            "path": "~/.conan/",
+            "movable": true,
+            "help": "export CONAN_USER_HOME=\"$XDG_CONFIG_HOME\" will set the directory in which .conan/ is created. It was designed to simplify CI, but can be used here too.\n_Relevant issue_: https://github.com/conan-io/conan/issues/2526\n"
+        }
+    ]
+}

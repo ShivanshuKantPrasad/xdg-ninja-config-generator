@@ -1,0 +1,15 @@
+{
+    "name": "mathomatic",
+    "files": [
+        {
+            "path": "~/.mathomaticrc",
+            "movable": true,
+            "help": "History can be moved by using rlwrap mathomatic -r with the RLWRAP_HOME environment set appropriately.\n"
+        },
+        {
+            "path": "~/.matho_history",
+            "movable": true,
+            "help": "History can be moved by using rlwrap mathomatic -r with the RLWRAP_HOME environment set appropriately.\n"
+        }
+    ]
+}

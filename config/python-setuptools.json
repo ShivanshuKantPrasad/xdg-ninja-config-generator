@@ -1,0 +1,10 @@
+{
+    "name": "python-setuptools",
+    "files": [
+        {
+            "path": "~/.python-eggs",
+            "movable": true,
+            "help": "export PYTHON_EGG_CACHE=\"$XDG_CACHE_HOME\"/python-eggs\n"
+        }
+    ]
+}

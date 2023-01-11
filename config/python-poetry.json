@@ -1,0 +1,10 @@
+{
+    "name": "python-poetry",
+    "files": [
+        {
+            "path": "~/.poetry",
+            "movable": true,
+            "help": "Still creates ~/.poetry according to [86]\n_Relevant issue_: https://github.com/python-poetry/poetry/issues/2148\n"
+        }
+    ]
+}

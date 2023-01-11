@@ -1,0 +1,15 @@
+{
+    "name": "racket",
+    "files": [
+        {
+            "path": "~/.racketrc",
+            "movable": true,
+            "help": "export PLTUSERHOME=\"$XDG_DATA_HOME\"/racket\n_Relevant issue_: https://github.com/racket/racket/issues/2740\n"
+        },
+        {
+            "path": "~/.racket",
+            "movable": true,
+            "help": "export PLTUSERHOME=\"$XDG_DATA_HOME\"/racket\n_Relevant issue_: https://github.com/racket/racket/issues/2740\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "simplescreenrecorder",
+    "files": [
+        {
+            "path": "~/.ssr/",
+            "movable": true,
+            "help": "Will use $XDG_CONFIG_HOME/simplescreenrecorder/ ONLY if it already was created otherwise defaults to ~/.ssr\nmv ~/.ssr \"$XDG_CONFIG_HOME\"/simplescreenrecorder\n_Relevant issue_: https://github.com/MaartenBaert/ssr/issues/407\n"
+        }
+    ]
+}

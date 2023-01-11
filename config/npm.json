@@ -1,0 +1,15 @@
+{
+    "name": "npm",
+    "files": [
+        {
+            "path": "~/.npm",
+            "movable": true,
+            "help": "export NPM_CONFIG_USERCONFIG=$XDG_CONFIG_HOME/npm/npmrc\nnpmrc\nprefix=${XDG_DATA_HOME}/npm\ncache=${XDG_CACHE_HOME}/npm\ninit-module=${XDG_CONFIG_HOME}/npm/config/npm-init.js\n\nprefix is unnecessary (and unsupported) if Node.js is installed by nvmAUR.\nIf you want to configure this system-wide, the file to edit is /usr/etc/npmrc, not /etc/npmrc. You can confirm that the config is loaded by running npm config list\n_Relevant issue_: https://github.com/npm/cli/issues/654\n"
+        },
+        {
+            "path": "~/.npmrc",
+            "movable": true,
+            "help": "export NPM_CONFIG_USERCONFIG=$XDG_CONFIG_HOME/npm/npmrc\nnpmrc\nprefix=${XDG_DATA_HOME}/npm\ncache=${XDG_CACHE_HOME}/npm\ninit-module=${XDG_CONFIG_HOME}/npm/config/npm-init.js\n\nprefix is unnecessary (and unsupported) if Node.js is installed by nvmAUR.\nIf you want to configure this system-wide, the file to edit is /usr/etc/npmrc, not /etc/npmrc. You can confirm that the config is loaded by running npm config list\n_Relevant issue_: https://github.com/npm/cli/issues/654\n"
+        }
+    ]
+}

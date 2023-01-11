@@ -1,0 +1,10 @@
+{
+    "name": "hplip",
+    "files": [
+        {
+            "path": "~/.hplip/",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://bugs.launchpad.net/hplip/+bug/307152\n"
+        }
+    ]
+}

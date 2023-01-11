@@ -1,0 +1,10 @@
+{
+    "name": "ipython",
+    "files": [
+        {
+            "path": "~/.ipython",
+            "movable": true,
+            "help": "The default dotfile path is still $HOME but xdg directories (or ~/.config/ipython if XDG_* vars are unset) are supported and work correctly.\n_Relevant issue_: https://github.com/ipython/ipython/pull/13224\n"
+        }
+    ]
+}

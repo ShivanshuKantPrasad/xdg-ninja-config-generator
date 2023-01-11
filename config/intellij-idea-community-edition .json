@@ -1,0 +1,10 @@
+{
+    "name": "intellij-idea-community-edition /  intellij-idea-ultimate-editionAUR",
+    "files": [
+        {
+            "path": "~/.IntelliJIdeaXXXX.X",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/JetBrains/IntelliJIdeaXXXX.X\nXDG_DATA_HOME/JetBrains/IntelliJIdeaXXXX.X\nXDG_CACHE_HOME/JetBrains/IntelliJIdeaXXXX.X\n_Relevant issue_: https://youtrack.jetbrains.com/issue/IDEA-22407\n"
+        }
+    ]
+}

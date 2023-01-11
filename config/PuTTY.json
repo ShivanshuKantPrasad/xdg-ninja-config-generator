@@ -1,0 +1,10 @@
+{
+    "name": "PuTTY",
+    "files": [
+        {
+            "path": "~/.putty/",
+            "movable": true,
+            "help": "Will use $XDG_CONFIG_HOME/putty if it already exists. Creates ~/.putty if not. Prioritises $XDG_CONFIG_HOME/putty if both exist. Tested in 0.74\n"
+        }
+    ]
+}

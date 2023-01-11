@@ -1,0 +1,10 @@
+{
+    "name": "uncrustify",
+    "files": [
+        {
+            "path": "~/.uncrustify.cfg",
+            "movable": true,
+            "help": "export UNCRUSTIFY_CONFIG=\"$XDG_CONFIG_HOME\"/uncrustify/uncrustify.cfg\n"
+        }
+    ]
+}

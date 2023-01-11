@@ -1,0 +1,10 @@
+{
+    "name": "claws-mail",
+    "files": [
+        {
+            "path": "~/.claws-mail",
+            "movable": true,
+            "help": "claws-mail --alternate-config-dir \"$XDG_DATA_HOME\"/claws-mail\n_Relevant issue_: https://lists.claws-mail.org/pipermail/users/2013-April/006087.html\n"
+        }
+    ]
+}

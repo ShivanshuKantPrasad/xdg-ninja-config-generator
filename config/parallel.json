@@ -1,0 +1,10 @@
+{
+    "name": "parallel",
+    "files": [
+        {
+            "path": "~/.parallel",
+            "movable": true,
+            "help": "export PARALLEL_HOME=\"$XDG_CONFIG_HOME\"/parallel\n"
+        }
+    ]
+}

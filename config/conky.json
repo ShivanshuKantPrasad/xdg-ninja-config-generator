@@ -1,0 +1,10 @@
+{
+    "name": "conky",
+    "files": [
+        {
+            "path": "~/.conkyrc",
+            "movable": true,
+            "help": "conky --config=\"$XDG_CONFIG_HOME\"/conky/conkyrc\n_Relevant issue_: https://github.com/brndnmtthws/conky/issues/144\n"
+        }
+    ]
+}

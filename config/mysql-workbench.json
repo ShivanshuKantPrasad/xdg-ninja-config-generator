@@ -1,0 +1,10 @@
+{
+    "name": "mysql-workbench",
+    "files": [
+        {
+            "path": "~/.mysql/workbench",
+            "movable": true,
+            "help": "You can run MySQL Workbench with the ---configdir flag, such as mysql-workbench --configdir=\"$XDG_DATA_HOME/mysql/workbench\". The directory needs to be created manually, since MySQL Workbench default location is $HOME/.mysql/workbench .\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "OpenSSH",
+    "files": [
+        {
+            "path": "~/.ssh",
+            "movable": true,
+            "help": "Assumed to be present by many ssh daemons and clients such as DropBear and OpenSSH.\n_Relevant issue_: https://bugzilla.mindrot.org/show_bug.cgi?id=2050\n"
+        }
+    ]
+}

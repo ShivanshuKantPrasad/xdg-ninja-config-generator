@@ -1,0 +1,10 @@
+{
+    "name": "OpenSSL",
+    "files": [
+        {
+            "path": "~/.rnd",
+            "movable": true,
+            "help": "Seeding file .rnd's location can be set with RANDFILE environment variable per FAQ.\n"
+        }
+    ]
+}

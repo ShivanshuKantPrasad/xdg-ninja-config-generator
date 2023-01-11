@@ -1,0 +1,20 @@
+{
+    "name": "Solfege",
+    "files": [
+        {
+            "path": "~/.solfege",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://savannah.gnu.org/bugs/index.php?50251\n"
+        },
+        {
+            "path": "~/.solfegerc",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://savannah.gnu.org/bugs/index.php?50251\n"
+        },
+        {
+            "path": "~/lessonfiles",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://savannah.gnu.org/bugs/index.php?50251\n"
+        }
+    ]
+}

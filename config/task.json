@@ -1,0 +1,15 @@
+{
+    "name": "task",
+    "files": [
+        {
+            "path": "~/.task",
+            "movable": true,
+            "help": "Fully supported in version 2.6 (note $XDG_CONFIG_HOME/task/taskrc must exist, otherwise taskwarrior will offer to create sample config in legacy $HOME/.taskrc location, even if $XDG_CONFIG_HOME is set [231][232])\n"
+        },
+        {
+            "path": "~/.taskrc",
+            "movable": true,
+            "help": "Fully supported in version 2.6 (note $XDG_CONFIG_HOME/task/taskrc must exist, otherwise taskwarrior will offer to create sample config in legacy $HOME/.taskrc location, even if $XDG_CONFIG_HOME is set [231][232])\n"
+        }
+    ]
+}

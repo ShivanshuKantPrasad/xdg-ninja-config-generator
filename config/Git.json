@@ -1,0 +1,10 @@
+{
+    "name": "Git",
+    "files": [
+        {
+            "path": "~/.gitconfig",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/git/config\n"
+        }
+    ]
+}

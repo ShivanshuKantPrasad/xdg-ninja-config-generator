@@ -1,0 +1,10 @@
+{
+    "name": "mitmproxy",
+    "files": [
+        {
+            "path": "~/.mitmproxy",
+            "movable": true,
+            "help": "alias mitmproxy=\"mitmproxy --set confdir=$XDG_CONFIG_HOME/mitmproxy\", alias mitmweb=\"mitmweb --set confdir=$XDG_CONFIG_HOME/mitmproxy\"\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ack",
+    "files": [
+        {
+            "path": "~/.ackrc",
+            "movable": true,
+            "help": "export ACKRC=\"$XDG_CONFIG_HOME/ack/ackrc\"\n_Relevant issue_: https://github.com/beyondgrep/ack2/issues/516\n"
+        }
+    ]
+}

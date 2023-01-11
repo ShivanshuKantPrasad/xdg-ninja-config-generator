@@ -1,0 +1,10 @@
+{
+    "name": "imapfilterAUR",
+    "files": [
+        {
+            "path": "~/.imapfilter",
+            "movable": true,
+            "help": "export IMAPFILTER_HOME=\"$XDG_CONFIG_HOME/imapfilter\"\n"
+        }
+    ]
+}

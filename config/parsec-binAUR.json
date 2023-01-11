@@ -1,0 +1,10 @@
+{
+    "name": "parsec-binAUR",
+    "files": [
+        {
+            "path": "~/.parsec",
+            "movable": true,
+            "help": "\n"
+        }
+    ]
+}

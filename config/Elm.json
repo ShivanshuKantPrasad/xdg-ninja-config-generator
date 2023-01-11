@@ -1,0 +1,10 @@
+{
+    "name": "Elm",
+    "files": [
+        {
+            "path": "~/.elm",
+            "movable": true,
+            "help": "export ELM_HOME=\"$XDG_CONFIG_HOME\"/elm\n"
+        }
+    ]
+}

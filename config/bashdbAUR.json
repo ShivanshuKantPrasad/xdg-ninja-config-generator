@@ -1,0 +1,10 @@
+{
+    "name": "bashdbAUR",
+    "files": [
+        {
+            "path": "~/.bashdbinit, ~/.bashdb_hist",
+            "movable": true,
+            "help": "Like documented at [133], you can specify a file to run commands from. Thus, move the init file to XDG_CONFIG_HOME/bashdb/bashdbinit and create an alias alias bashdb='bashdb -x ${XDG_CONFIG_HOME:-$HOME/.config}/bashdb/bashdbinit'. Unfortunately the history file is hardcoded [134].\n"
+        }
+    ]
+}

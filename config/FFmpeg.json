@@ -1,0 +1,10 @@
+{
+    "name": "FFmpeg",
+    "files": [
+        {
+            "path": "~/.ffmpeg",
+            "movable": true,
+            "help": "export FFMPEG_DATADIR=\"$XDG_CONFIG_HOME\"/ffmpeg\n"
+        }
+    ]
+}

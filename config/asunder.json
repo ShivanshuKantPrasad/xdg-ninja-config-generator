@@ -1,0 +1,25 @@
+{
+    "name": "asunder",
+    "files": [
+        {
+            "path": "~/.asunder",
+            "movable": true,
+            "help": "Uses XDG_CONFIG_HOME/asunder/asunder for ~/.asunder and XDG_CACHE_HOME/asunder/asunder_album_... for the other 3 files. Legacy paths are not removed after migration, they have to be deleted manually.\n_Relevant issue_: https://littlesvr.ca/bugs/show_bug.cgi?id=52\n"
+        },
+        {
+            "path": "~/.asunder_album_artist",
+            "movable": true,
+            "help": "Uses XDG_CONFIG_HOME/asunder/asunder for ~/.asunder and XDG_CACHE_HOME/asunder/asunder_album_... for the other 3 files. Legacy paths are not removed after migration, they have to be deleted manually.\n_Relevant issue_: https://littlesvr.ca/bugs/show_bug.cgi?id=52\n"
+        },
+        {
+            "path": "~/.asunder_album_genre",
+            "movable": true,
+            "help": "Uses XDG_CONFIG_HOME/asunder/asunder for ~/.asunder and XDG_CACHE_HOME/asunder/asunder_album_... for the other 3 files. Legacy paths are not removed after migration, they have to be deleted manually.\n_Relevant issue_: https://littlesvr.ca/bugs/show_bug.cgi?id=52\n"
+        },
+        {
+            "path": "~/.asunder_album_title",
+            "movable": true,
+            "help": "Uses XDG_CONFIG_HOME/asunder/asunder for ~/.asunder and XDG_CACHE_HOME/asunder/asunder_album_... for the other 3 files. Legacy paths are not removed after migration, they have to be deleted manually.\n_Relevant issue_: https://littlesvr.ca/bugs/show_bug.cgi?id=52\n"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Arduino",
+    "files": [
+        {
+            "path": "~/.arduino15",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://github.com/arduino/Arduino/issues/3915\n"
+        },
+        {
+            "path": "~/.jssc",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://github.com/arduino/Arduino/issues/3915\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "subversion",
+    "files": [
+        {
+            "path": "~/.subversion",
+            "movable": true,
+            "help": "alias svn=\"svn --config-dir \\\"$XDG_CONFIG_HOME\\\"/subversion\"\n_Relevant issue_: https://issues.apache.org/jira/browse/SVN-4599\n"
+        }
+    ]
+}

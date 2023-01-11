@@ -1,0 +1,10 @@
+{
+    "name": "Cinnamon",
+    "files": [
+        {
+            "path": "~/.cinnamon/",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://github.com/linuxmint/Cinnamon/issues/7807\n"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "GDB",
+    "files": [
+        {
+            "path": "~/.gdbinit",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/gdb/gdbinit, export GDBHISTFILE=\"$XDG_DATA_HOME\"/gdb/history\n"
+        },
+        {
+            "path": "~/.gdb_history",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/gdb/gdbinit, export GDBHISTFILE=\"$XDG_DATA_HOME\"/gdb/history\n"
+        }
+    ]
+}

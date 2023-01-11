@@ -1,0 +1,15 @@
+{
+    "name": "GQ LDAP client",
+    "files": [
+        {
+            "path": "~/.gq",
+            "movable": true,
+            "help": "export GQRC=\"$XDG_CONFIG_HOME\"/gqrc, export GQSTATE=\"$XDG_DATA_HOME\"/gq/gq-state, mkdir -p \"$(dirname \"$GQSTATE\")\"\n"
+        },
+        {
+            "path": "~/.gq-state",
+            "movable": true,
+            "help": "export GQRC=\"$XDG_CONFIG_HOME\"/gqrc, export GQSTATE=\"$XDG_DATA_HOME\"/gq/gq-state, mkdir -p \"$(dirname \"$GQSTATE\")\"\n"
+        }
+    ]
+}

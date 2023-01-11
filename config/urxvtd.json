@@ -1,0 +1,10 @@
+{
+    "name": "urxvtd",
+    "files": [
+        {
+            "path": "~/.urxvt/urxvtd-hostname",
+            "movable": true,
+            "help": "export RXVT_SOCKET=\"$XDG_RUNTIME_DIR\"/urxvtd\n"
+        }
+    ]
+}

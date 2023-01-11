@@ -1,0 +1,10 @@
+{
+    "name": "nvidia-settings",
+    "files": [
+        {
+            "path": "~/.nvidia-settings-rc",
+            "movable": true,
+            "help": "nvidia-settings --config=\"$XDG_CONFIG_HOME\"/nvidia/settings\n"
+        }
+    ]
+}

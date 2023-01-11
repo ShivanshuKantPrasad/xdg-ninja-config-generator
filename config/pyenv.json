@@ -1,0 +1,10 @@
+{
+    "name": "pyenv",
+    "files": [
+        {
+            "path": "~/.pyenv",
+            "movable": true,
+            "help": "export PYENV_ROOT=$XDG_DATA_HOME/pyenv\n_Relevant issue_: https://github.com/pyenv/pyenv/issues/139\n"
+        }
+    ]
+}

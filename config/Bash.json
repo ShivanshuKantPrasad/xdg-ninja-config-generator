@@ -1,0 +1,30 @@
+{
+    "name": "Bash",
+    "files": [
+        {
+            "path": "~/.bashrc",
+            "movable": true,
+            "help": "mkdir -p \"$XDG_STATE_HOME\"/bash\nexport HISTFILE=\"$XDG_STATE_HOME\"/bash/history\nbashrc can be sourced from a different location in /etc/bash.bashrc.\nSpecify --init-file <file> as an alternative to ~/.bashrc for interactive shells.\n_Relevant issue_: https://savannah.gnu.org/support/?108134\n"
+        },
+        {
+            "path": "~/.bash_history",
+            "movable": true,
+            "help": "mkdir -p \"$XDG_STATE_HOME\"/bash\nexport HISTFILE=\"$XDG_STATE_HOME\"/bash/history\nbashrc can be sourced from a different location in /etc/bash.bashrc.\nSpecify --init-file <file> as an alternative to ~/.bashrc for interactive shells.\n_Relevant issue_: https://savannah.gnu.org/support/?108134\n"
+        },
+        {
+            "path": "~/.bash_profile",
+            "movable": true,
+            "help": "mkdir -p \"$XDG_STATE_HOME\"/bash\nexport HISTFILE=\"$XDG_STATE_HOME\"/bash/history\nbashrc can be sourced from a different location in /etc/bash.bashrc.\nSpecify --init-file <file> as an alternative to ~/.bashrc for interactive shells.\n_Relevant issue_: https://savannah.gnu.org/support/?108134\n"
+        },
+        {
+            "path": "~/.bash_login",
+            "movable": true,
+            "help": "mkdir -p \"$XDG_STATE_HOME\"/bash\nexport HISTFILE=\"$XDG_STATE_HOME\"/bash/history\nbashrc can be sourced from a different location in /etc/bash.bashrc.\nSpecify --init-file <file> as an alternative to ~/.bashrc for interactive shells.\n_Relevant issue_: https://savannah.gnu.org/support/?108134\n"
+        },
+        {
+            "path": "~/.bash_logout",
+            "movable": true,
+            "help": "mkdir -p \"$XDG_STATE_HOME\"/bash\nexport HISTFILE=\"$XDG_STATE_HOME\"/bash/history\nbashrc can be sourced from a different location in /etc/bash.bashrc.\nSpecify --init-file <file> as an alternative to ~/.bashrc for interactive shells.\n_Relevant issue_: https://savannah.gnu.org/support/?108134\n"
+        }
+    ]
+}

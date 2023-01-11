@@ -1,0 +1,10 @@
+{
+    "name": "dbus",
+    "files": [
+        {
+            "path": "~/.dbus/",
+            "movable": true,
+            "help": "Consider using dbus-broker, as it does not create or use this directory.\n_Relevant issue_: https://gitlab.freedesktop.org/dbus/dbus/issues/46\n"
+        }
+    ]
+}

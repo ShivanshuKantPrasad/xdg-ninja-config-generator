@@ -1,0 +1,15 @@
+{
+    "name": "lldb",
+    "files": [
+        {
+            "path": "~/.lldb",
+            "movable": true,
+            "help": "\n"
+        },
+        {
+            "path": "~/.lldbinit",
+            "movable": true,
+            "help": "\n"
+        }
+    ]
+}

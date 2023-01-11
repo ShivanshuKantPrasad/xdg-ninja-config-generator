@@ -1,0 +1,10 @@
+{
+    "name": "glivAUR",
+    "files": [
+        {
+            "path": "~/.glivrc",
+            "movable": true,
+            "help": "gliv --glivrc=\"$XDG_CONFIG_HOME\"/gliv/glivrc\n"
+        }
+    ]
+}

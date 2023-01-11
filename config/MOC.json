@@ -1,0 +1,10 @@
+{
+    "name": "MOC",
+    "files": [
+        {
+            "path": "~/.moc",
+            "movable": true,
+            "help": "mocp -M \"$XDG_CONFIG_HOME\"/moc, mocp -O MOCDir=\"$XDG_CONFIG_HOME\"/moc\n"
+        }
+    ]
+}

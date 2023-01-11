@@ -1,0 +1,10 @@
+{
+    "name": "Visual Studio Code",
+    "files": [
+        {
+            "path": "~/.vscode-oss/",
+            "movable": true,
+            "help": "You can use export VSCODE_PORTABLE=\"$XDG_DATA_HOME\"/vscode, which is not documented and might break unexpectedly.\nSetting this makes the editor look for the contents of .config/Code - OSS in $VSCODE_PORTABLE/user-data.\nYou can also run Visual Studio with the --extensions-dir flag, such as code --extensions-dir \"$XDG_DATA_HOME/vscode\". This is documented and probably will not break as unexpectedly, as it is has other use cases.\n_Relevant issue_: https://github.com/Microsoft/vscode/issues/3884\n"
+        }
+    ]
+}

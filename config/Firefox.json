@@ -1,0 +1,10 @@
+{
+    "name": "Firefox",
+    "files": [
+        {
+            "path": "~/.mozilla/",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://bugzil.la/259356\n"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "tmux",
+    "files": [
+        {
+            "path": "~/.tmux.conf",
+            "movable": true,
+            "help": "3.1 introduced ~/.config/tmux/tmux.conf and in 3.2 XDG_CONFIG_HOME/tmux/tmux.conf was added\n_Relevant issue_: https://github.com/tmux/tmux/issues/142\n"
+        }
+    ]
+}

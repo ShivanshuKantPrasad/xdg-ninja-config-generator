@@ -1,0 +1,10 @@
+{
+    "name": "ELinks",
+    "files": [
+        {
+            "path": "~/.elinks",
+            "movable": true,
+            "help": "export ELINKS_CONFDIR=\"$XDG_CONFIG_HOME\"/elinks\n"
+        }
+    ]
+}

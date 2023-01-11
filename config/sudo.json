@@ -1,0 +1,10 @@
+{
+    "name": "sudo",
+    "files": [
+        {
+            "path": "~/.sudo_as_admin_successful",
+            "movable": true,
+            "help": "Only present when activated at compile-time (default none). An admin_flag parameter can be used in /etc/sudoers since 1.9.6.\n_Relevant issue_: https://github.com/sudo-project/sudo/issues/56\n"
+        }
+    ]
+}

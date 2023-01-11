@@ -1,0 +1,10 @@
+{
+    "name": "goobookAUR",
+    "files": [
+        {
+            "path": "~/.goobookrc",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/goobookrc\n_Relevant issue_: https://gitlab.com/goobook/goobook/-/merge_requests/11\n"
+        }
+    ]
+}

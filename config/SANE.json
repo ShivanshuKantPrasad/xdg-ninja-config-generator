@@ -1,0 +1,10 @@
+{
+    "name": "SANE",
+    "files": [
+        {
+            "path": "~/.sane/",
+            "movable": true,
+            "help": "scanimage creates a .cal file there\n"
+        }
+    ]
+}

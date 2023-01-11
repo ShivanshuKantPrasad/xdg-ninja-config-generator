@@ -1,0 +1,10 @@
+{
+    "name": "ARandR",
+    "files": [
+        {
+            "path": "~/.screenlayout",
+            "movable": true,
+            "help": "\n_Relevant issue_: https://gitlab.com/arandr/arandr/-/issues/45\n"
+        }
+    ]
+}

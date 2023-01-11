@@ -1,0 +1,10 @@
+{
+    "name": "clangd",
+    "files": [
+        {
+            "path": "~/.clangd",
+            "movable": true,
+            "help": "XDG_CONFIG_HOME/clangd/config.yml\nXDG_CACHE_HOME/clangd\nProject specific configuration can be specified in proj/.clangd.\nConfiguration is combined when this is sensible. In case of conflicts, user config has the highest precedence, then inner project, then outer project.\n_Relevant issue_: https://github.com/clangd/clangd/issues/341\n"
+        }
+    ]
+}

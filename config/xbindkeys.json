@@ -1,0 +1,10 @@
+{
+    "name": "xbindkeys",
+    "files": [
+        {
+            "path": "~/.xbindkeysrc",
+            "movable": true,
+            "help": "xbindkeys -f \"$XDG_CONFIG_HOME\"/xbindkeys/config\n"
+        }
+    ]
+}

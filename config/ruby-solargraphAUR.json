@@ -1,0 +1,10 @@
+{
+    "name": "ruby-solargraphAUR",
+    "files": [
+        {
+            "path": "~/.solargraph/cache/",
+            "movable": true,
+            "help": "export SOLARGRAPH_CACHE=$XDG_CACHE_HOME/solargraph\n_Relevant issue_: https://github.com/castwide/solargraph/blob/master/README.md\n"
+        }
+    ]
+}

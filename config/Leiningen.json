@@ -1,0 +1,15 @@
+{
+    "name": "Leiningen",
+    "files": [
+        {
+            "path": "~/.lein",
+            "movable": true,
+            "help": "export LEIN_HOME=\"$XDG_DATA_HOME\"/lein\nto change the m2 repo location used by leiningen look here: Leiningen#m2_repo_location\n"
+        },
+        {
+            "path": "~/.m2",
+            "movable": true,
+            "help": "export LEIN_HOME=\"$XDG_DATA_HOME\"/lein\nto change the m2 repo location used by leiningen look here: Leiningen#m2_repo_location\n"
+        }
+    ]
+}

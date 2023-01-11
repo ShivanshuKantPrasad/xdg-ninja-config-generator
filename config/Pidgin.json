@@ -1,0 +1,10 @@
+{
+    "name": "Pidgin",
+    "files": [
+        {
+            "path": "~/.purple",
+            "movable": true,
+            "help": "pidgin --config=\"$XDG_DATA_HOME\"/purple\n_Relevant issue_: https://developer.pidgin.im/ticket/4911\n"
+        }
+    ]
+}
